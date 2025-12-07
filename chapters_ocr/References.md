@@ -1,0 +1,619 @@
+# **References**
+
+- Abler, B., Walter, H., Erk, S., Kammerer, H., and Spitzer, M. 2006. Prediction error as a linear function of reward probability is coded in human nucleus accumbens. *NeuroImage*, **31**, 790–795.
+- Aitkin, M., and Rubin, D. B. 1985. Estimation and hypothesis testing in finite mixture models. *Journal of the Royal Statistical Society. Series B (Methodological)*, **47**, 67–75.
+- Akaike, H. 1973. Information theory and an extension of the maximum likelihood principle. Pages 267–281 in: Petrov, B. N., and Csaki, F. (eds), *Second International Symposium on Information Theory*. Budapest: Akademiai Kiado.
+- Anderson, J. A. 1995. *An introduction to neural networks*. Cambridge, MA: MIT Press.
+- Anderson, J. A., Silverstein, J. W., Ritz, S. A., and Jones, R. S. 1977. Distinctive features, categorical perception, and probability learning: Some applications of a neural model. *Psychological Review*, **84**, 413–451.
+- Anderson, J. R. 1983a. *The architecture of cognition*. Cambridge, MA: Harvard University Press. Anderson, J. R. 1983b. A spreading activation theory of memory. *Journal of Verbal Learning and Verbal Behavior*, **22**, 261–295.
+- Anderson, J. R. 1990. *The adaptive character of thought*. Hillsdale, NJ: Lawrence Erlbaum.
+- Anderson, J. R. 1996. ACT: A simple theory of complex cognition. *American Psychologist*, **51**, 355–365.
+- Anderson, J. R. 2007. *How can the human mind occur in the physical universe?* Oxford: Oxford University Press.
+- Anderson, J. R., and Lebiere, C. 1998. *The atomic components of thought*. Hillsdale, NJ: Erlbaum. Anderson, J. R., and Matessa, M. 1997. A production system theory of serial memory. *Psychological Review*, **104**, 728–748.
+- Anderson, J. R., and Schooler, L. J. 1991. Reflections of the environment in memory. *Psychological Science*, **2**, 396–408.
+- Anderson, N. H. 1981. *Foundations of information integration theory*. New York: Academic Press.
+- Andrews, S., and Heathcote, A. 2001. Distinguishing common and task-specific processes in word identification: A matter of some moment? *Journal of Experimental Psychology: Learning, Memory, and Cognition*, **27**, 514–544.
+- Andrieu, C., de Freitas, N., Doucet, A., and Jordan, M. I. 2003. An introduction to MCMC for machine learning. *Machine Learning*, **50**, 5–43.
+- Angus, J. E. 1994. The probability integral transform and related results. *SIAM Review*, **36**, 652–654.
+- Arlot, S., Celisse, A., et al. 2010. A survey of cross-validation procedures for model selection. *Statistics Surveys*, **4**, 40–79.
+
+- Arnold, N. R., Bayen, U. J., Kuhlmann, B. G., and Vaterrodt, B. 2013. Hierarchical modeling of contingency-based source monitoring: A test of the probability-matching account. *Psychonomic Bulletin & Review*, **20**, 326–333.
+- Ashby, F. G., and Helie, S. 2011. A tutorial on computational cognitive neuroscience: Modeling the neurodynamics of cognition. *Journal of Mathematical Psychology*, **55**, 273–289.
+- Ashby, F. G., and Maddox, W. T. 1993. Relations between prototype, exemplar, and decision bound models of categorization. *Journal of Mathematical Psychology*, **37**, 372–400.
+- Ashby, F. G., Maddox, W. T., and Lee, W. W. 1994. On the dangers of averaging across subjects when using multidimensional scaling or the similarity-choice model. *Psychological Science*, **5**, 144–151.
+- Ashby, G. G. 1983. A biased random-walk model for two choice reaction times. *Journal of Mathematical Psychology*, **27**, 277–297.
+- Averell, L., and Heathcote, A. 2011. The form of the forgetting curve and the fate of memories. *Journal of Mathematical Psychology*, **55**, 25–35.
+- Ayers, M. S., and Reder, L. M. 1998. A theoretical review of the misinformation effect: Predictions from an activation-based memory model. *Psychonomic Bulletin & Review*, **5**, 1–21.
+- Baayen, R. H., Davidson, D. J., and Bates, D. M. 2007. Mixed-effects modeling with crossed random effects for subjects and items. *Journal of Memory and Language*, **59**, 390–412.
+- Bahrick, H. P., Bahrick, P. O., and Wittlinger, R. P. 1975. Fifty years of memory for names and faces: A cross-sectional approach. *Journal of Experimental Psychology: General*, **104**, 54–75.
+- Balota, D. A., Yap, M. J., Cortese, M. J., and Watson, J. M. 2008. Beyond mean response latency: Response time distributional analyses of semantic priming. *Journal of Memory and Language*, **59**, 495–523.
+- Bamber, D., and van Santen, J. P. 1985. How many parameters can a model have and still be testable? *Journal of Mathematical Psychology*, **29**, 443–473.
+- Bamber, D., and van Santen, J. P. 2000. How to assess a model's testability and identifiability. *Journal of Mathematical Psychology*, **44**, 20–40.
+- Bamber, J. L., Aspinall, W. P., and Cooke, R. M. 2016. A commentary on "how to interpret expert judgment assessments of twenty-first century sea-level rise" by Hylke de Vries and Roderik SW van de Wal. *Climatic Change*, **137**, 321–328.
+- Barrouillet, P., Bernardin, S., and Camos, V. 2004. Time constraints and resource sharing in adults' working memory spans. *Journal of Experimental Psychology: General*, **133**, 83–100.
+- Bartels, A., and Zeki, S. 2000. The neural basis of romantic love. *Neuroreport*, **11**, 3829–3834.
+- Basso, M. A., and Wurtz, R. H. 1998. Modulation of neuronal activity in superior colliculus by changes in target probability. *Journal of Neuroscience*, **18**, 7519–7534.
+- Basten, U., Biele, G., Heekeren, H. R., and Fiebach, C. J. 2010. How the brain integrates costs and benefits during decision making. *Proceedings of the National Academy of Sciences*, **107**, 21767–21772.
+- Batchelder, W. H., and Riefer, D. M. 1999. Theoretical and empirical review of multinomial process tree modeling. *Psychonomic Bulletin & Review*, **6**, 57–86.
+- Bays, P. M., Catalao, R. F. G., and Husain, M. 2009. The precision of visual working memory is set by allocation of a shared resource. *Journal of Vision*, **9**, 7.
+- Bays, P. M., Wu, E. Y., and Husain, M. 2011. Storage and binding of object features in visual working memory. *Neuropsychologia*, **49**, 1622–1631.
+- Bechtel, W. 2008. Mechanisms in cognitive psychology: What are the operations? *Philosophy of Science*, **75**, 983–994.
+
+- Beichl, I., and Sullivan, F. 2000. The Metropolis algorithm. *Computing in Science & Engineering*, **2**, 65–69.
+- Bennett, C. M., Wolford, G. L., and Miller, M. B. 2009. The principled control of false positives in neuroimaging. *Social Cognitive and Affective Neuroscience*, **4**, 417–422.
+- Berger, J. O. 1985. *Statistical decision theory and Bayesian analysis*. New York: Springer Verlag.
+- Berger, J. O., Bernardo, J. M., and Sun, D. 2009. The formal definition of reference priors. *The Annals of Statistics*, **37**, 905–938.
+- Berger, J. O., Bernardo, J. M., and Sun, D. 2015. Overall objective priors. *Bayesian Analysis*, **10**, 189–221.
+- Bernardo, J. M. 1979. Reference posterior distributions for Bayesian inference. *Journal of the Royal Statistical Society. Series B (Methodological)*, **41**, 113–147.
+- Bickel, P. J., Hammel, E. A., and O'Connell, J. W. 1975. Sex bias in graduate admissions: Data from Berkeley. *Science*, **187**, 398–404.
+- Boekel, W., Wagenmakers, E.-J., Belay, L., Verhagen, J., Brown, S., and Forstmann, B. U. 2015. A purely confirmatory replication study of structural brain-behavior correlations. *Cortex*, **66**, 115–133.
+- Boettiger, C. 2015. An introduction to Docker for reproducible research. *ACM SIGOPS Operating Systems Review*, **49**, 71–79.
+- Bogacz, R., and Gurney, K. 2007. The basal ganglia and cortex implement optimal decision making between alternative actions. *Neural Computation*, **19**, 442–477.
+- Bogacz, R., Hu, P. T., Holmes, P. J., and Cohen, J. D. 2010a. Do humans produce the speed–accuracy trade-off that maximizes reward rate? *The Quarterly Journal of Experimental Psychology*, **63**, 863–891.
+- Bogacz, R., McClure, S. M., Li, J., Cohen, J. D, and Montague, P. R. 2007. Short-term memory traces for action bias in human reinforcement learning. *Brain Research*, **1153**, 111–121.
+- Bogacz, R., Wagenmakers, E.-J., Forstmann, B. U, and Nieuwenhuis, S. 2010b. The neural basis of the speed–accuracy tradeoff. *Trends in Neurosciences*, **33**, 10–16.
+- Botvinick, M. M., and Plaut, D. C. 2004. Doing without schema hierarchies: A recurrent connectionist approach to normal and impaired routine sequential action. *Psychological Review*, **111**, 395–429.
+- Botvinick, M. M., and Plaut, D. C. 2006. Short-term memory for serial order: A recurrent neural network model. *Psychological Review*, **113**, 201–233.
+- Box, G. E. P. 1979. Robustness in the strategy of scientific model building. *Robustness in Statistics*, **1**, 201–236.
+- Box, M. J. 1966. A comparison of several current optimization methods, and the use of transformations in constrained problems. *Computer Journal*, **9**, 67–77.
+- Bozdogan, H. 1987. Model selection and Akaike's Information Criterion (AIC): The general theory and its analytical extensions. *Psychometrika*, **52**, 345–370.
+- Bradshaw, G. L., Langley, P., and Simon, H. A. 1983. Studying scientific discovery by computer simulation. *Science*, **222**, 971–975.
+- Brandstatter, E., Gigerenzer, G., and Hertwig, R. 2006. The priority heuristic: making choices ¨ without trade-offs. *Psychological review*, **113**, 409.
+- Brooks, S. P., and Gelman, A. 1998. General Methods for Monitoring Convergence of Iterative Simulations. *Journal of Computational and Graphical Statistics*, **7**, 434–455.
+- Brown, G. D. A., and Lewandowsky, S. 2010. Forgetting in memory models: Arguments against trace decay and consolidation failure. Pages 49–75 of: Della Sala, S. (ed), *Forgetting*. Hove, UK: Psychology Press.
+
+- Brown, G. D. A., Preece, T., and Hulme, C. 2000. Oscillator-based memory for serial order. *Psychological Review*, **107**, 127–181.
+- Brown, G. D. A., Neath, I., and Chater, N. 2007. A temporal ratio model of memory. *Psychological Review*, **114**, 539–576.
+- Brown, S., and Heathcote, A. 2005. A ballistic model of choice response time. *Psychological Review*, **112**, 117–128.
+- Brown, S. D., and Heathcote, A. 2008. The simplest complete model of choice response time: Linear ballistic accumulation. *Cognitive Psychology*, **57**, 153–178.
+- Burgess, N., and Hitch, G. J. 1999. Memory for serial order: A network model of the phonological loop and its timing. *Psychological Review*, **106**, 551–581.
+- Burnham, K. P., and Anderson, D. R. 2002. *Model selection and multimodel inference: A practical information-theoretic approach (2nd Edition)*. New York: Springer-Verlag.
+- Burnham, K. P., and Anderson, D. R. 2004. Multimodel inference: Understanding AIC and BIC in model selection. *Sociological Methods & Research*, **33**, 261–304.
+- Carlin, B. P., and Chib, S. 1995. Bayesian model choice via Markov chain Monte Carlo methods. *Journal of the Royal Statistical Society. Series B (Methodological)*, **57**, 473–484.
+- Carpenter, B., Gelman, A., Hoffman, M., Lee, D., Goodrich, B., Betancourt, M., Brubaker, M. A., Guo, J., Li, P., and Riddell, A. 2016. Stan: A probabilistic programming language. *Journal of Statistical Software*, **20**, 1–37.
+- Carpenter, R. H. S. 1981. Oculomotor procrastination. Pages 237–246 of: Fisher, D. F., Monty, R. A., and Senders, J. W. (eds), *Eye movements: Cognition and visual perception*. Hillsdale, NJ: Lawrence Erlbaum.
+- Carpenter, R. H. S. 2001. Express saccades: Is bimodality a result of the order of stimulus presentation? *Vision Research*, **41**, 1145–1151.
+- Carpenter, R. H. S., and Williams, M. L. L. 1995. Neural computation of log likelihood in control of saccadic eye movements. *Nature*, **377**, 59–62.
+- Carpenter, S. K., Pashler, H., Wixted, J. T., and Vul, E. 2008. The effects of tests on learning and forgetting. *Memory & Cognition*, **36**, 438–448.
+- Cassey, P. J., Gaut, G., Steyvers, M., and Brown, S. D. 2016. A generative joint model for spike trains and saccades during perceptual decision-making. *Psychonomic Bulletin & Review*, **23**, 1757–1778.
+- Chandrasekharan, S. 2009. Building to discover: a common coding model. *Cognitive Science*, **33**, 1059–1086.
+- Chandrasekharan, S., and Nersessian, N. J. 2015. Building cognition: the construction of computational representations for scientific discovery. *Cognitive science*, **39**, 1727–1763.
+- Chandrasekharan, S., Nersessian, N. J., and Subramanian, V. 2012. Computational modeling: Is this the end of thought experimenting in science? Pages 239–260 of: Brown, J., Frappier, M., and Meynell, L. (eds), *Thought experiments in philosophy, science and the arts*. London: Routledge.
+- Chechile, R. A. 1977. Likelihood and posterior identification: Implications for mathematical psychology. *British Journal of Mathematical and Statistical Psychology*, **30**, 177–184.
+- Chechile, R. A. 1998. Reexamining the goodness-of-fit problem for interval-scale scores. *Behavior Research Methods, Instruments, & Computers*, **30**, 227–231.
+- Chechile, R. A. 1999. A vector-based goodness-of-fit metric for interval-scaled data. *Communications in Statistics: Theory and Methods*, **28**, 277–296.
+- Chib, Siddhartha. 1995. Marginal likelihood from the Gibbs output. *Journal of the American Statistical Association*, **90**, 1313–1321.
+
+- Chib, S., and Greenberg, E. 1995. Understanding the Metropolis-Hastings Algorithm. *The American Statistician*, **49**, 327–335.
+- Churchland, A. K., Kiani, R., and Shadlen, M. N. 2008. Decision-making with multiple alternatives. *Nature Neuroscience*, **11**, 693–702.
+- Cisek, P., Puskas, G. A., and El-Murr, S. 2009. Decisions in Changing Conditions: The Urgency-Gating Model. *Journal of Neuroscience*, **29**, 11560–11571.
+- Collins, A. M., and Loftus, E. F. 1975. A spreading activation theory of semantic processing. *Psychological Review*, **82**, 407–428.
+- Coltheart, M. 2006. What has functional neuroimaging told us about the mind (so far). *Cortex*, **42**, 323–331.
+- Coltheart, M., Curtis, B., Atkins, P., and Haller, P. 1993. Models of reading aloud: Dual-route and parallel-distributed-processing approaches. *Psychological Review*, **100**, 589–608.
+- Coltheart, M., Rastle, K., Perry, C., Langdon, R., and Ziegler, J. 2001. DRC: A dual route cascade model of visual word recognition and reading aloud. *Psychological Review*, **108**, 204–256.
+- Corrado, G., and Doya, K. 2007. Understanding neural coding through the model based analysis of decision making. *The Journal of Neuroscience*, **27**, 8178–8180.
+- Cousineau, D., Brown, S., and Heathcote, A. 2004. Fitting distributions using maximum likelihood: Methods and packages. *Behavior Research Methods Instruments & Computers*, **36**, 742–756.
+- Cousineau, D., and Shiffrin, R. M. 2004. Termination of a visual search with large display size effects. *Spatial Vision*, **17**, 327–352.
+- Cowles, Mary Kathryn, and Carlin, Bradley P. 1996. Markov Chain Monte Carlo Convergence Diagnostics: A Comparative Review. *Journal of the American Statistical Association*, **91**, 883–904.
+- Coyne, J. A. 2009. *Why evolution is true*. New York: Viking.
+- Craigmile, P., Peruggia, M., and Zandt, T. V. 2010. Hierarchical Bayes models for response time data. *Psychometrika*, **75**, 613–632.
+- Craik, F. I. M., Govoni, R., Naveh-Benjamin, M., and Anderson, N. D. 1996. The effects of divided attention on encoding and retrieval processes in human memory. *Journal of Experimental Psychology: General*, **125**, 159.
+- Cressie, N., and Read, T. R. C. 1989. Pearson's *χ*<sup>2</sup> and the Loglikelihood Ratio Statistic G2: A Comparative Review. *International Statistical Review*, **57**, 19–43.
+- Crick, F. 1989. The recent excitement about neural networks. *Nature*, **337**, 129–132.
+- Crowder, R. G. 1976. *Principles of learning and memory*. Hillsdale, NJ: Lawrence Erlbaum.
+- Curran, T., and Hintzman, D. L. 1995. Violations of the independence assumption in process dissociation. *Journal of Experimental Psychology: Learning, Memory, & Cognition*, **21**, 531–547.
+- David, F. N. 1962. *Games, gods and gambling*. London: Charles Griffin and Co.
+- Daw, N. D. 2009. Trial-by-trial data analysis using computational models. Pages 3–38 of: Phelps, E., Robbins, T., and Delgado, M. (eds), *Decision making, affect, and learning: Attention and performance XXIII*. Oxford, UK: Oxford University Press.
+- Daw, N. D., and Tobler, P. N. 2014. Value learning through reinforcement: the basics of dopamine and reinforcement learning. Pages 283–298 of: Glimcher, P. W., and Fehr, E (eds), *Neuroeconomics*. London, UK: Academic Press.
+- Daw, N. D., O'Doherty, J. P., Dayan, P., Seymour, B., and Dolan, R. J. 2006. Cortical substrates for exploratory decisions in humans. *Nature*, **441**, 876–879.
+
+- de Hollander, G., Forstmann, B. U., and Brown, S. D. 2016. Different ways of linking behavioral and neural data via computational cognitive models. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, **1**, 101–109.
+- DeCarlo, L. T. 1998. Signal detection theory and generalized linear models. *Psychological Methods*, **3**, 186–205.
+- DeGroot, M. H. 1989. *Probability and Statistics (2nd Edition).* Reading, MA: Addison-Wesley.
+- Dennis, S., and Humphreys, M. S. 2001. A context noise model of episodic word recognition. *Psychological Review*, **108**, 452–478.
+- DiCiccio, T. J., Kass, R. E., Raftery, A., and Wasserman, L. 1997. Computing Bayes factors by combining simulation and asymptotic approximations. *Journal of the American Statistical Association*, **92**, 903–915.
+- Dickey, J. M. 1971. The weighted likelihood ratio, linear hypotheses on normal location parameters. *The Annals of Mathematical Statistics*, **42**, 204–223.
+- Dickey, J. 1973. Scientific reporting and personal probabilities: Student's hypothesis. *Journal of the Royal Statistical Society. Series B (Methodological)*, **42**, 285–305.
+- Dickey, J. M. 1976. Approximate posterior distributions. *Journal of the American Statistical Association*, **71**, 680–689.
+- Dickey, J. M., Lientz, B. P., et al. 1970. The weighted likelihood ratio, sharp hypotheses about chances, the order of a Markov chain. *The Annals of Mathematical Statistics*, **41**, 214–226.
+- Dienes, Z. 2011. Bayesian versus orthodox statistics: Which side are you on? *Perspectives on Psychological Science*, **6**, 274–290.
+- Ding, L., and Gold, J. I. 2012. Separate, causal roles of the caudate in saccadic choice and execution in a perceptual decision task. *Neuron*, **75**, 865–874.
+- Donaldson, W. 1996. The role of decision processes in remembering and knowing. *Memory & Cognition*, **24**, 523–533.
+- Donkin, C., Averell, L., Brown, S., and Heathcote, A. 2009. Getting more from accuracy and response time data: Methods for fitting the linear ballistic accumulator. *Behavior Research Methods*, **41**, 1095–1110.
+- Donkin, C., Nosofsky, R. M., Gold, J. M., and Shiffrin, R. M. 2013. Discrete-Slots Models of Visual Working-Memory Response Times. *Psychological Review*, **120**, 873–902.
+- Dorris, M. C., and Munoz, D. P. 1998. Saccadic probability influences motor preparation signals and time to saccadic initiation. *Journal of Neuroscience*, **18**, 7015–7026.
+- Dorris, M. C., Pare, M., and Munoz, D. P. 2000. Immediate neural plasticity shapes motor performance. *Journal of Neuroscience*, **20**, 1–5.
+- Drummond, C. 2009. Replicability is not reproducibility: nor is it good science. Downloaded from http://cogprints.org/7691
+- Dunn, J. C. 2000. Model complexity: The fit to random data reconsidered. *Psychological Research*, **63**, 174–182.
+- Dunn, J. C. 2004. Remember–know: A Matter of Confidence. *Psychological Review*, **111**, 524–542.
+- Dutton, J. M., and Starbuck, W. H. 1971. *Computer simulation of human behavior*. New York: Wiley.
+- Dzeroski, S., Langley, P., and Todorovski, L. 2007. Computational discovery of scientific ˇ knowledge. Pages 1–14 of: Dzeroski, S., and Todorovski, L. (eds), ˇ *Computational Discovery of Scientific Knowledge*. Berlin: Springer-Verlag.
+- Edwards, A. W. F. 1992. *Likelihood*. Expanded edn. Baltimore, MA: Johns Hopkins University Press.
+
+- Edwards, W., Lindman, H., and Savage, L. J. 1963. Bayesian statistical inference for psychological research. *Psychological Review*, **70**, 193–242.
+- Efron, B., and Gong, G. 1983. A leisurely look at the boostrap, the jackknife, and cross-validation. *The American Statistician*, **37**, 36–38.
+- Efron, B., and Morris, C. N. 1977. Stein's paradox in statistics. *Scientific American*, **236**, 119–127.
+- Efron, B., and Tibshirani, R. 1994. *Introduction to the Bootstrap*. New York: Chapman & Hall.
+- Eichele, T., Debener, S., Calhoun, V. D., Specht, K., Engel, A. K., Hugdahl, K., and Ullsperger, M. 2008. Prediction of human errors by maladaptive changes in event-related brain networks. *Proceedings of the National Academy of Sciences*, **116**, 6173–6178.
+- Eliason, S. R. 1993. *Maximum likelihood estimation: Logic and practice*. Quantitative applications in the social sciences. Newbury Park, CA: Sage.
+- Elman, J. L. 1990. Finding structure in time. *Cognitive Science*, **14**, 179–211.
+- Elman, J. L., Bates, E. A., Johnson, M. H., Karmiloff-Smith, A., Parisi, D., and Plunkett, K. 1996. *Rethinking innateness: A connectionist perspective*. Cambridge, MA: MIT Press.
+- Erdfelder, E., and Buchner, A. 1998. Decomposing the hindsight bias: A multinomial processing tree model for separating recollection and reconstruction in hindsight. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, **24**, 387–414.
+- Erdfelder, E., Auer, T., Hilbig, B. E., Aßfalg, A., Moshagen, M., and Nadarevic, L. 2009. Multinomial processing tree models: A review of the literature. *Zeitschrift f¨ur Psychologie/Journal of Psychology*, **217**, 108–124.
+- Erev, I., Ert, E., and Roth, A. E. 2010b. A choice prediction competition for market entry games: An introduction. *Games*, **1**, 117–136.
+- Erev, I., Ert, E., Roth, A. E., Haruvy, E., Herzog, S. M., Hau, R., Hertwig, R., Stewart, T., West, R., and Lebiere, C. 2010a. A choice prediction competition: Choices from experience and from description. *Journal of Behavioral Decision Making*, **23**, 15–47.
+- Estes, W. K. 1956. The problem of inference from curves based on group data. *Psychological Bulletin*, **53**, 134–140.
+- Estes, W. K. 2002. Traps in the route to models of memory and decision. *Psychonomic Bulletin & Review*, **9**, 3–25.
+- Evans, J. S. B. T. 1989. *Bias in human reasoning: Causes and consequences*. Hove, UK: Lawrence Erlbaum Associates.
+- Farrell, S., and Lewandowsky, S. 2000. A connectionist model of complacency and adaptive recovery under automation. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, **26**, 395–410.
+- Farrell, S., and Lewandowsky, S. 2002. An endogenous distributed model of ordering in serial recall. *Psychonomic Bulletin & Review*, **9**, 59–79.
+- Farrell, S., and Lewandowsky, S. 2010. Computational models as aids to better reasoning in psychology. *Current Directions in Psychological Science*, **19**, 329–335.
+- Farrell, S., and Lewandowsky, S. 2012. Response suppression contributes to recency in serial recall. *Memory & Cognition*, **40**, 1070–1080.
+- Farrell, S., and Ludwig, C. J. H. 2008. Bayesian and maximum likelihood estimation of hierarchical response time models. *Psychonomic Bulletin & Review*, **15**, 1209–1217.
+- Farrell, S., Ludwig, C. J. H., Ellis, L. A., and Gilchrist, I. D. 2010. Influence of environmental statistics on inhibition of saccadic return. *Proceedings of the National Academy of Sciences*, **107**, 929–934.
+- Fiorillo, C. D., Tobler, P. N., and Schultz, W. 2003. Discrete coding of reward probability and uncertainty by dopamine neurons. *Science*, **299**, 1898–1902.
+
+- Fischer, B., and Weber, H. 1993. Express saccades and visual attention. *Behavioral and Brain Sciences*, **16**, 553–567.
+- Fisher, R. A. 1922. On the mathematical foundations of theoretical statistics. *Philosophical Transactions of the Royal Society of London. Series A, Containing Papers of a Mathematical or Physical Character*, **222**, 309–368.
+- Floyd, R., Leslie, D., Baddeley, R., and Farrell, S. 2014. Better Together: Understanding Collaborative Decision Making. *Poster presented at the 55th Psychonomic Society Annual Meeting, Long Beach, CA*.
+- Forgy, E. W. 1965. Cluster analysis of multivariate data: efficiency versus interpretability of classifications. *Biometrics*, **21**, 768–769.
+- Forstmann, B. U., and Wagenmakers, E. J. (eds). 2015. *An introduction to model-based cognitive neuroscience*. London: Springer.
+- Forstmann, B. U., Ratcliff, R., and Wagenmakers, E.-J. 2016. Sequential Sampling Models in Cognitive Neuroscience: Advantages, Applications, and Extensions. *Annual Review of Psychology*, **67**, 641–666.
+- Forstmann, B. U., Brown, S., Dutilh, G., Neumann, J., Wagenmakers, E., et al. 2010b. The neural substrate of prior information in perceptual decision making: a model-based analysis. *Frontiers in Human Neuroscience*, **4**, 40.
+- Forstmann, B. U., Dutilh, G., Brown, S., Neumann, J., von Cramond, D. Y., Ridderinkhof, K. R., and Wagenmakers, E.-J. 2008. Striatum and pre-SMA facilitate decision-making under time pressure. *Proceedings of the National Academy of Sciences USA*, **105**, 17538–17542.
+- Forstmann, B. U., Anwander, A., Schafer, A., Neumann, J., Brown, S., Wagenmakers, E., ¨ Bogacz, R., and Turner, R. 2010a. Cortico-striatal connections predict control over speed and accuracy in perceptual decision making. *Proceedings of the National Academy of Sciences*, **107**, 15916–15920.
+- Forstmann, B. U., Wagenmakers, E., Eichele, T., Brown, S., and Serences, J. T. 2011a. Reciprocal relations between cognitive neuroscience and formal cognitive models: opposites attract? *Trends in Cognitive Sciences*, **15**, 272–279.
+- Forstmann, B. U., Tittgemeyer, M., Wagenmakers, E., Derrfuss, J., Imperati, D., and Brown, S. 2011b. The speed-accuracy tradeoff in the elderly brain: a structural model-based approach. *The Journal of Neuroscience*, **31**, 17242–17249.
+- Fox, J., and Glas, C. A. W. 2001. Bayesian estimation of a multilevel IRT model using Gibbs sampling. *Psychometrika*, **66**, 271–288.
+- Frank, M. J. 2006. Hold your horses: a dynamic computational role for the subthalamic nucleus in decision making. *Neural Networks*, **19**, 1120–1136.
+- Frank, M. J., Gagne, C., Nyhus, E., Masters, S., Wiecki, T. V., Cavanagh, J. F., and Badre, D. 2015. fMRI and EEG predictors of dynamic decision parameters during human reinforcement learning. *The Journal of Neuroscience*, **35**, 485–494.
+- Freedman, D., Pisani, R., Purves, R., and Adhikari, A. 1991. *Statistics (2nd Edition)*. New York: W. W. Norton.
+- Freeman, J. B., and Dale, R. 2013. Assessing bimodality to detect the presence of a dual cognitive process. *Behavior Research Methods*, **45**, 83–97.
+- French, R. M. 1992. Semi-distributed representations and catastrophic forgetting in connectionist networks. *Connection Science*, **4**, 365–377.
+- French, R. M. 1999. Catastrophic forgetting in connectionist networks. *Trends in Cognitive Sciences*, **3**, 128–135.
+- Friedman, M., and Savage, L. J. 1948. The utility analysis of choices involving risk. *The Journal of Political Economy*, **56**, 279–304.
+
+- Gallistel, C. R. 2009. The Importance of Proving the Null. *Psychological Review*, **116**, 439–453.
+- Gardiner, J. M. 1988. Functional aspects of recollective experience. *Memory & Cognition*, **16**, 309–313.
+- Gardiner, J. M., and Java, R. I. 1990. Recollective experience in word and nonword recognition. *Memory & Cognition*, **18**, 23–30.
+- Geisser, S. 1975. The predictive sample reuse method with applications. *Journal of the American Statistical Association*, **70**, 320–328.
+- Gelfand, A. E., and Smith, A. F. M. 1990. Sampling-based approaches to calculating marginal densities. *Journal of the American Statistical Association*, **85**, 398–409.
+- Gelman, A. 2006. Prior distributions for variance parameters in hierarchical models. *Bayesian Analysis*, **1**, 515–533.
+- Gelman, A., and Rubin, D. B. 1992. Inference from iterative simulation using multiple sequences. *Statistical Science*, **7**, 457–511.
+- Gelman, A., Carlin, J. B., Stern, H. S., and Rubin, D. B. 2004. *Bayesian data analysis*. London, UK: Chapman & Hall.
+- Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., and Rubin, D. B. 2013. *Bayesian Data Analysis (3rd Ed.)*. Chapman and Hall/CRC.
+- Gelman, A., and Meng, X. 1998. Simulating normalizing constants: From importance sampling to bridge sampling to path sampling. *Statistical Science*, **13**, 163–185.
+- Gelman, A., Roberts, G. O., Gilks, W. R., et al. 1996. Efficient Metropolis jumping rules. *Bayesian Statistics*, **5**, 599–607.
+- Gelman, A., Rubin, Do. B., et al. 1999. Evaluating and using statistical methods in the social sciences. *Sociological Methods & Research*, **27**, 403–410.
+- Gelman, A., Hwang, J., and Vehtari, A. 2014. Understanding predictive information criteria for Bayesian models. *Statistics and Computing*, **24**, 997–1016.
+- Geman, S., and Geman, D. 1984. Stochastic relaxation, Gibbs distributions, and the Bayesian restoration of images. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, **6**, 721–741.
+- Gerla, G. 2007. Point-free geometry and verisimilitude of theories. *Journal of Philosophical Logic*, **36**, 707–733.
+- Gianutsos, R. 1972. Free recall of grouped words. *Journal of Experimental Psychology*, **95**, 419–428.
+- Gil, Y., Greaves, M., Hendler, J., Hirsh, H., et al. 2014. Amplify scientific discovery with artificial intelligence. *Science*, **346**, 171–172.
+- Glimcher, P. W. 2003. The neurobiology of visual-saccadic decision making. *Annual Review of Neuroscience*, **26**, 133–179.
+- Glockner ¨ , A., and Pachur, T. 2012. Cognitive models of risky choice: Parameter stability and predictive accuracy of prospect theory. *Cognition*, **123**, 21–32.
+- Gluth, S., and Rieskamp, J. 2017. Variability in behavior that cognitive models do not explain can be linked to neuroimaging data. *Journal of Mathematical Psychology*, **76**, 104–116.
+- Gold, J. I., and Shadlen, M. 2001. Neural computations that underlie decisions about sensory stimuli. *Trends in Cognitive Sciences*, **5**, 10–16.
+- Gold, J. I., and Shadlen, M. N. 2002. Banburismus and the brain: Decoding the relationship between sensory stimuli, decisions and reward. *Neuron*, **36**, 299–308.
+- Gold, J. I., and Shadlen, M. N. 2003. The influence of behavioral context on the representation of a perceptual decision in developing oculomotor commands. *Journal of Neuroscience*, **23**, 632–651.
+
+- Gold, J. I., and Shadlen, M. N. 2007. The neural basis of decision making. *Annual Review of Neuroscience*, **30**, 535–574.
+- Goldstone, R. L., and Sakamoto, Y. 2003. The transfer of abstract principles governing complex adaptive tasks. *Cognitive Psychology*, **46**, 414–466.
+- Gosselin, F., and Schyns, P. G. 2003. Superstitious perceptions reveal properties of interval representations. *Psychological Science*, **14**, 505–509.
+- Green, D. M., and Swets, J. A. 1966. *Signal detection theory and psychophysics*. New York: Wiley.
+- Green, P. J. 1995. Reversible jump Markov chain Monte Carlo computation and Bayesian model determination. *Biometrika*, **82**, 711–732.
+- Gregg, V. H., and Gardiner, J. H. 1994. Recognition memory and awareness: A large effect of study-test modalities on "know" responses following a highly perceptual orienting task. *European Journal of Cognitive Psychology*, **6**, 131–147.
+- Grelaud, A., Robert, C. P., Marin, J., Rodolphe, F., Taly, J., et al. 2009. ABC likelihood-free methods for model choice in Gibbs random fields. *Bayesian Analysis*, **4**, 317–335.
+- Grice, G. R. 1968. Stimulus intensity and response evocation. *Psychological Review*, **75**, 359.
+- Griffiths, T. L., Chater, N., Kemp, C., Perfors, A., and Tenenbaum, J. B. 2010. Probabilistic models of cognition: Exploring representations and inductive biases. *Trends in Cognitive Sciences*, **14**, 357–364.
+- Griffiths, T. L., Vul, E., and Sanborn, A. N. 2012. Bridging levels of analysis for probabilistic models of cognition. *Current Directions in Psychological Science*, **21**, 263–268.
+- Grunwald, P. D. 2007. ¨ *The Minimum Description Length Principle*. Cambridge, MA: MIT Press.
+- Grunwald, P. 2005. A tutorial introduction to the minimum description length principle. ¨ *Advances in minimum description length: Theory and applications*, 23–81.
+- Haldane, J. B. S. 1932. A note on inverse probability. Mathematical Proceedings of the Cambridge Philosophical Society, **28**, 55–61.
+- Hanes, D. P., and Schall, J. D. 1996. Neural control of voluntary movement initiation. *Science*, **274**, 427–30.
+- Harrison, G. W., and Rutstrom, E. E. 2009. Expected utility theory and prospect theory: One ¨ wedding and a decent funeral. *Experimental Economics*, **12**, 133–158.
+- Hartig, F., Calabrese, J. M., Reineking, B., Wiegand, T., and Huth, A. 2011. Statistical inference for stochastic simulation models theory and application. *Ecology Letters*, **14**, 816–827.
+- Hartigan, J. A., and Wong, M. A. 1979. Algorithm AS 136: A k-means clustering algorithm. *Applied statistics*, **28**, 100–108.
+- Hastie, T., Tibshirani, R., and Friedman, J. 2009. *The elements of statistical learning*. New York: Springer.
+- Hastings, W. K. 1970. Monte Carlo methods using Markov chains and their applications. *Biometrika*, **57**, 97–109.
+- Hayes, K. J. 1953. The backward curve: A method for the study of learning. *Psychological Review*, **60**, 269–275.
+- Heathcote, A. 2004. Fitting Wald and ex-Wald distributions to response time data: An example using functions for the S-Plus package. *Behavior Research Methods, Instruments, & Computers*, **36**, 678–694.
+- Heathcote, A., Brown, S., and Mewhort, D. J. 2000. The power law repealed: The case for an exponential law of practice. *Psychonomic Bulletin & Review*, **7**, 185–207.
+- Heathcote, A., Brown, S., and Cousineau, D. 2004. QMPE: Estimating lognormal, wald, and Weibull RT distributions with a parameter-dependent lower bound. *Behavior Research Methods Instruments & Computers*, **36**, 277–290.
+
+- Heathcote, A., and Love, J. 2012. Linear Deterministic Accumulator Models of Simple Choice. *Frontiers in Psychology*, **3**, 292.
+- Heathcote, A., Wagenmakers, E. J., and Brown, S. D. 2014. The falsifiability of actual decision-making models. *Psychological Review*, **121**, 676–678.
+- Hebb, D. O. 1949. *The organization of behavior*. New York: Wiley.
+- Hebb, D. O. 1959. A neuropsychological theory. Pages 622–643 of: Koch, S. (ed), *Psychology: A Study Of A Science. Volume1: Sensory, Perceptual, And Physiological Foundations*. McGraw-Hill.
+- Heck, D. W., Moshagen, M., and Erdfelder, E. 2014. Model selection by minimum description length: Lower-bound sample sizes for the Fisher information approximation. *Journal of Mathematical Psychology*, **60**, 29–34.
+- Helsabeck, F. 1975. Syllogistic Reasoning: Generation of Counterexamples. *Journal of Educational Psychology*, **67**, 102–108.
+- Henson, R. N. A. 1998. Short-term memory for serial order: The Start-End Model. *Cognitive Psychology*, **36**, 73–137.
+- Hetherington, P, and Seidenberg, Mark S. 1989. Is there catastrophic interference in connectionist networks. Page 33 of: *Proceedings of the 11th annual conference of the cognitive science society*, vol. 26. Erlbaum Hillsdale, NJ.
+- Hinton, G. E., and Shallice, T. 1991. Lesioning an attractor network: Investigations of acquired dyslexia. *Psychological Review*, **98**, 74–95.
+- Hinton, G. E., and Salakhutdinov, R. R. 2006. Reducing the dimensionality of data with neural networks. *Science*, **313**, 504–507.
+- Hinton, G. E., Osindero, S., and Teh, Y. 2006. A fast learning algorithm for deep belief nets. *Neural Computation*, **18**, 1527–1554.
+- Hintzman, D. L. 1980. Simpson's paradox and the analysis of memory retrieval. *Psychological Review*, **87**, 398–410.
+- Hintzman, D. L. 1991. Why are formal models useful in psychology? Pages 39–56 of: Hockley, W. E., and Lewandowsky, S. (eds), *Relating theory and data: Essays on human memory in honor of Bennet B. Murdock*. Hillsdale, NJ: Lawrence Erlbaum.
+- Hirshman, E. 1995. Decision processes in recognition memory: Criterion shifts and the liststrength paradigm. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, **21**, 302–313.
+- Ho, T. C., Brown, S., and Serences, J. T. 2009. Domain general mechanisms of perceptual decision making in human cortex. *Journal of Neuroscience*, **29**, 8675–8687.
+- Ho, T., Brown, S., van Maanen, L., Forstmann, B. U., Wagenmakers, E., and Serences, J. T. 2012. The optimality of sensory processing during the speed–accuracy tradeoff. *The Journal of Neuroscience*, **32**, 7992–8003.
+- Holmes, W. R. 2015. A practical guide to the probability density approximation (pda) with improved implementation and error characterization. *Journal of Mathematical Psychology*, **68**, 13–24.
+- Holmes, W. R., Trueblood, J. S., and Heathcote, A. 2016. A new framework for modeling decisions about changing information: The Piecewise Linear Ballistic Accumulator model. *Cognitive Psychology*, **85**, 1–29.
+- Hood, B. M. 1995. Gravity rules for 2- to 4-year olds? *Cognitive Development*, **10**, 577–598.
+- Howe, B. 2012. Virtual appliances, cloud computing, and reproducible research. *Computing in Science & Engineering*, **14**, 36–41.
+- Howell, D. C. 2006. *Statistical methods for psychology*. Belmont, CA: Wadsworth.
+
+- Hoyle, F. 1974. The work of Nicolaus Copernicus. *Proceedings of the Royal Society, Series A.*, **336**, 105–114.
+- Hucka, M., Nickerson, D. P., Bader, G. D., Bergmann, F. T., Cooper, J., Demir, E., Garny, A., Golebiewski, M., Myers, C. J., Schreiber, F., et al. 2015. Promoting coordinated development of community-based information standards for modeling in biology: the COMBINE initiative. *Frontiers in bioengineering and biotechnology*, **3**, 19.
+- Hudson-Kam, C. L., and Newport, E. L. 2005. Regularizing unpredictable variation: The roles of adult and child learners in language formation and change. *Language Learning and Development*, **1**, 151–195.
+- Hughes, C., Russell, J., and Robbins, T. W. 1994. Evidence for executive disfunction in autism. *Neuopsychologia*, **32**, 477–492.
+- Hurvich, C. M., and Tsai, C. L. 1989. Regression and time series model selection in small samples. *Biometrika*, **76**, 297–307.
+- Jang, Y., Wixted, J., and Huber, D. E. 2009. Testing signal-detection models of yes/no and two-alternative forced choice recognition memory. *Journal of Experimental Psychology: General*, **138**, 291–306.
+- Jaynes, E. T. 2003. *Probability theory: The logic of science*. Cambridge: Cambridge University Press.
+- Jeffrey, R. 2004. *Subjective probability: The real thing*. Cambridge: Cambridge University Press. Jefferys, W. H., and Berger, J. O. 1991. Sharpening Ockhams razor on a Bayesian strop. *Dept. Statistics, Purdue Univ., West Lafayette, IN, Tech. Rep*.
+- Jeffreys, H. 1961. *Theory of Probability*. Oxford: Oxford University Press.
+- Jeffreys, H. 1946. An Invariant Form for the Prior Probability in Estimation Problems. *Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences*, **186**, 453–461.
+- Jiang, Y., Rouder, J. N., and Speckman, P. L. 2004. A note on the sampling properties of the Vincentizing (quantile averaging) procedure. *Journal of Mathematical Psychology*, **48**, 186–195.
+- Jordan, M. I. 2004. Graphical models. *Statistical Science*, **19**, 140–155.
+- Jordan, M. I. 1986. An introduction to linear algebra in parallel distributed processing. Pages 365–422 of: Rumelhart, D., McClelland, J., and the PDP Research Group (eds), *Parallel distributed processing*. Cambridge, MA: MIT Press.
+- Justel, A., and Pena, D. 1996. Gibbs Sampling Will Fail in Outlier Problems with Strong ˜ Masking. *Journal of Computational and Graphical Statistics*, **5**, 176–189.
+- Kahneman, D., and Tversky, A. 1979. Prospect theory: An analysis of decision under risk. *Econometrica: Journal of the Econometric Society*, **47**, 263–291.
+- Kalish, M. L., and Dunn, J. C. 2012. What could cognitive neuroscience tell us about recognition memory? *Australian Journal of Psychology*, **64**, 29–36.
+- Kalish, M. L., Lewandowsky, S., and Kruschke, J. K. 2004. Population of linear experts: knowledge partitioning and function learning. *Psychological Review*, **111**, 1072.
+- Kane, M. J., Hambrick, D. Z., and Conway, A. R. A. 2005. Working Memory Capacity and Fluid Intelligence Are Strongly Related Constructs: Comment on Ackerman, Beier, and Boyle (2005). *Psychological Bulletin*, **131**, 66–71.
+- Kary, A., Taylor, R., and Donkin, C. 2015. Using Bayes factors to test the predictions of models: A case study in visual working memory. *Journal of Mathematical Psychology*, **72**, 210–219.
+- Kass, R. E., and Raftery, A. E. 1995. Bayes factors. *Journal of the American Statistical Association*, **90**, 773–795.
+
+- Kass, R. E., and Wasserman, L. 1995. A reference Bayesian test for nested hypotheses and its relationship to the Schwarz criterion. *Journal of the American Statistical Association*, **90**, 928–934.
+- Kass, R. E., and Wasserman, L. 1996. The Selection of Prior Distributions by Formal Rules. *Journal of the American Statistical Association*, **91**, 1343–1370.
+- Kass, R. E., Carlin, B. P., Gelman, A., and Neal, R. M. 1998. Markov Chain Monte Carlo in Practice: A Roundtable Discussion. *The American Statistician*, **52**, 93–100.
+- Katahira, K. 2016. How hierarchical models improve point estimates of model parameters at the individual level. *Journal of Mathematical Psychology*, **73**, 37–58.
+- Kemp, C., and Tenenbaum, J. B. 2008. The discovery of structural form. *Proceedings of the National Academy of Sciences*, **105**, 10687–10692.
+- Kemp, C., Perfors, A., and Tenenbaum, J. B. 2004. Learning domain structures. In: *Proceedings of the 26th Annual Conference of the Cognitive Science Society*. Hillsdale, NJ: Erlbaum.
+- Keribin, C. 2000. Consistent estimation of the order of mixture models. *Sankhy¯a: The Indian Journal of Statistics, Series A*, 49–66.
+- Kerman, J. 2011. Neutral noninformative and informative conjugate beta and gamma prior distributions. *Electronic Journal of Statistics*, **5**, 1450–1470.
+- Keynes, J. M. 1921. *A treatise on probability*. London: Macmillan.
+- Kinder, A., and Assmann, A. 2000. Learning artificial grammars: No evidence for the acquisition of rules. *Memory & Cognition*, **28**, 1321–1332.
+- Kirkpatrick, S., Gelatt, C. D., and Vecchi, M. P. 1983. Optimization by simulated annealing. *Science*, **220**, 671–680.
+- Knoblauch, K., and Maloney, L. T. 2012. *Modeling Psychophysical Data in R*. New York: Springer.
+- Kruschke, J. K. 2011. *Doing Bayesian data analysis*. Burlington, MA: Academic Press.
+- Kruschke, J. K. 2015. *Doing Bayesian data analysis, Second Edition: A tutorial with R, JAGS, and Stan*. Academic Press / Elsevier.
+- Kruskal, J. B., and Wish, M. 1978. *Multidimensional scaling*. Quantitative Applications in the Social Sciences. London: Sage.
+- Kuha, J. 2004. AIC and BIC: Comparisons of assumptions and performance. *Sociological Methods & Research*, **33**, 188–229.
+- Lagarias, J. C., Reeds, J. A., Wright, M. H., and Wright, P. E. 1998. Convergence Properties of the Nelder-Mead Simplex Method in Low Dimensions. *SIAM Journal on Optimization*, **9**, 112–147.
+- Lake, B., Salakhutdinov, R., and Tenenbaum, J. B. 2015. Human-level concept learning through probabilistic program induction. *Science*, **350**, 1332–1338.
+- Lamb, E. 2016. Two-hundred-terabyte maths proof is largest ever. *Nature*, **534**, 17.
+- Lamberts, K. 2005. Mathematical modeling of cognition. Pages 407–421 of: Lamberts, K., and Goldstone, R. L. (eds), *The Handbook of Cognition*. London: Sage.
+- Laming, D. 1979. A critical comparison of two random-walk models for two-choice reaction time. *Acta Psychologica*, **43**, 431–453.
+- Langley, P. 2000. The computational support of scientific discovery. *International Journal of Human-Computer Studies*, **53**, 393–410.
+- Lee, M. D. 2006. A hierarchical Bayesian model of human decision-making on an optimal stopping problem. *Cognitive Science*, **30**, 555–580.
+- Lee, M. D. 2008. Three case studies in the Bayesian analysis of cognitive models. *Psychonomic Bulletin & Review*, **15**, 1–15.
+
+- Lee, M. D. 2011. How cognitive modeling can benefit from hierarchical Bayesian models. *Journal of Mathematical Psychology*, **55**, 1 – 7.
+- Lee, M. D., and Newell, B. R. 2011. Using hierarchical Bayesian methods to examine the tools of decision-making. *Judgment and Decision Making*, **6**, 832–842.
+- Lee, M. D., and Vanpaemel, W. 2008. Exemplars, prototypes, similarities and rules in category representation: An example of hierarchical Bayesian analysis. *Cognitive Science*, **32**, 1403–1424.
+- Lee, M. D., and Wagenmakers, E.-J. 2013. *Bayesian cognitive modeling*. New York: Cambridge University Press.
+- Lee, M. D., and Webb, M. R. 2005. Modeling individual differences in cognition. *Psychonomic Bulletin & Review*, **12**, 605–621.
+- Lerche, V., Voss, A., and Nagler, M. 2017. How many trials are required for parameter estimation in diffusion modeling? A comparison of different optimization criteria. *Behavior Research Methods*, **49**, 513–537.
+- Lerman, D. C., Tetreault, A., Hovanetz, A., Bellaci, E., Miller, J., Karp, H., Mahmood, A., Strobel, M., Mullen, S., Keyl, A., et al. 2010. Applying signal-detection theory to the study of observer accuracy and bias in behavioral assessment. *Journal of Applied Behavior Analysis*, **43**, 195–213.
+- Lewandowsky, S. 1993. The rewards and hazards of computer simulations. *Psychological Science*, **4**, 236–243.
+- Lewandowsky, S. 1999. Redintegration and response suppression in serial recall: A dynamic network model. *International Journal of Psychology*, **34**, 434–446.
+- Lewandowsky, S., and Bishop, D. 2016. Research integrity: Don't let transparency damage science. *Nature*, **529**, 459–461.
+- Lewandowsky, S., and Li, S.-C. 1995. Catastrophic interference in neural networks: Causes, solutions, and data. Pages 329–361 of: *Interference and inhibition in cognition*. San Diego, CA: Academic Press, Inc.
+- Lewandowsky, S., and Li, Shu-Chen. 1994. Memory for serial order revisited. *Psychological Review*, **101**, 539–543.
+- Lewandowsky, S., and Oberauer, K. 2016. Computational modeling in cognition and cognitive neuroscience. In: Wagenmakers, E.-J. (ed), *Stevens' Handbook of Experimental Psychology, Fourth Edition, Volume Five: Methodology*. Hoboken, NJ: John Wiley and Sons.
+- Lewandowsky, S., Duncan, M., and Brown, G. D. A. 2004. Time does not cause forgetting in short-term serial recall. *Psychonomic Bulletin & Review*, **11**, 771–790.
+- Lewandowsky, S., Oberauer, K., and Brown, G. D. A. 2009. No Temporal Decay in Verbal Short-Term Memory. *Trends in Cognitive Sciences*, **13**, 120–126.
+- Lewandowsky, S. 2011. Working memory capacity and categorization: Individual differences and modeling. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, **37**, 720–738.
+- Lewandowsky, S., and Coltheart, M. 2012. Cognitive modeling versus cognitive neuroscience: Competing approaches or complementary levels of explanation? *Australian Journal of Psychology*, **64**, 1–3.
+- Lewandowsky, S., and Farrell, S. 2011. *Computational modeling in cognition: Principles and practice*. Sage.
+- Lewis, S. M., and Raftery, A. E. 1997. Estimating Bayes factors via posterior simulation with the Laplace Metropolis estimator. *Journal of the American Statistical Association*, **92**, 648–655.
+- Li, M., and Vitanyi, P. 1997. *An introduction to Kolmogorov complexity and its applications*. London: Springer Verlag.
+
+- Li, S. C., Lewandowsky, S., and DeBrunner, V. E. 1996. Using parameter sensitivity and interdependence to predict model scope and falsifiability. *Journal of Experimental Psychology: General*, **125**, 360–369.
+- Link, W. A., and Eaton, M. J. 2012. On thinning of chains in MCMC. *Methods in Ecology and Evolution*, **3**, 112–115.
+- Little, D. R., and Lewandowsky, S. 2009. Beyond non-utilization: Irrelevant cues can gate learning in probabilistic categorization. *Journal of Experimental Psychology: Human Perception and Performance*, **35**, 530–550.
+- Liu, C. C., and Aitkin, M. 2008. Bayes factors: Prior sensitivity and model generalizability. *Journal of Mathematical Psychology*, **52**, 362–375.
+- Liu, C. C., and Smith, P. L. 2009. Comparing time-accuracy curves: Beyond goodness-of-fit measures. *Psychonomic Bulletin & Review*, **16**, 190–203.
+- Lloyd, S. P. 1982. Least squares quantization in PCM. *Information Theory, IEEE Transactions on*, **28**, 129–137.
+- Lobo, D., and Levin, M. 2015. Inferring regulatory networks from experimental morphological phenotypes: A computational method reverse-engineers planarian regeneration. *PLoS Comput Biol*, **11**, e1004295.
+- Locatelli, M. 2002. Simulated annealing algorithms for continuous global optimization. Pages 179–229 of: Pardalos, P. M., and Romeijn, H E. (eds), *Handbook of global optimization (Vol. 2)*. Dordrecht: Kluwer Academic Publishers.
+- Lodewyckx, T., Kim, W., Lee, M. D., Tuerlinckx, F., Kuppens, P., and Wagenmakers, E. 2011. A tutorial on Bayes factor estimation with the product space method. *Journal of Mathematical Psychology*, **55**, 331–347.
+- Loftus, E. F., Miller, D. G., and Burns, H. J. 1978. Semantic integration of verbal information into a visual memory. *Journal of Experimental Psychology: Human Learning and Memory*, **4**, 19–31.
+- Logan, G. D. 1992. Shapes of reaction-time distributions and shapes of learning curves: a test of the instance theory of automaticity. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, **18**, 883–914.
+- Love, B. C. 2015. The algorithmic level is the bridge between computation and brain. *Topics in cognitive science*, **7**, 230–242.
+- Luce, R. D. 1959. *Individual choice behavior*. New York: John Wiley.
+- Luce, R. D. 1963. Detection and recognition. Pages 103–189 of: Luce, R. D., Bush, R. R., and Galanter, E. (eds), *Handbook of mathematical psychology*, vol. 1. New York: Wiley.
+- Luce, R. D. 1986. *Response times*. Oxford: Oxford University Press.
+- Luce, R. D. 1995. Four tensions concerning mathematical modeling in psychology. *Annual Review of Psychology*, **46**, 1–26.
+- Ma, W. J., Husain, M., and Bays, P. M. 2014. Changing concepts of working memory. *Nature Neuroscience*, **17**, 347–356.
+- MacEachern, S. N., and Berliner, L. M. 1994. Subsampling the Gibbs Sampler. *The American Statistician*, **48**, 188–190.
+- Mack, M. L., Preston, A. R., and Love, B. C. 2013. Decoding the brains algorithm for categorization from its neural implementation. *Current Biology*, **23**, 2023–2027.
+- MacKay, D. J. C. 2003. *Information theory, inference and learning algorithms*. Cambridge University Press.
+- MacQueen, J. 1967. Some methods for classification and analysis of multivariate observations. Pages 281–297 of: *Proceedings of the fifth Berkeley symposium on mathematical statistics and probability*, vol. 1. Oakland, CA, USA.
+
+- Markman, A. B., and Gentner, D. 2001. Thinking. *Annual Review of Psychology*, **52**, 223–247.
+- Marr, D. 1982. *Vision*. San Francisco, CA: W. H. Freeman.
+- Massaro, D. W. 1988. Some criticisms of connectionist models of human performance. *Journal of Memory and Language*, **27**, 213–234.
+- Massaro, D. W, and Friedman, Daniel. 1990. Models of integration given multiple sources of information. *Psychological review*, **97**, 225.
+- Matthews, P. 1993. A slowly mixing Markov chain with implications for Gibbs sampling. *Statistics & Probability Letters*, **17**, 231 – 236.
+- Matzke, D., and Wagenmakers, E. 2009. Psychological interpretation of the ex-Gaussian and shifted Wald parameters: A diffusion model analysis. *Psychonomic Bulletin & Review*, **16**, 798–817.
+- Matzke, D., Dolan, C. V., Batchelder, W. H., and Wagenmakers, E. 2015. Bayesian estimation of multinomial processing tree models with heterogeneity in participants and items. *Psychometrika*, **80**, 205–235.
+- McClelland, J. L. 1979. On the time relations of mental processes: An examination of systems of processes in cascade. *Psychological review*, **86**, 287.
+- McClelland, J. L. 2009. The place of modeling in cognitive science. *Topics in Cognitive Science*, **1**, 11–38.
+- McClelland, J. L., and Patterson, K. 2002. Rules or connections in past-tense inflections: What does the evidence rule out? *Trends in Cognitive Sciences*, **6**, 465–472.
+- McClelland, J. L., and Rumelhart, D. E. 1981. An interactive activation model of context effects in letter perception: Part 1. An account of basic findings. *Psychological Review*, **88**, 375–407.
+- McCloskey, M., and Cohen, N. J. 1989. Catastrophic interference in connectionist networks: The sequential learning problem. *The Psychology of Learning and Motivation*, **24**, 109–165.
+- McClure, S. M., Berns, G. S., and Montague, P. R. 2003. Temporal prediction errors in a passive learning task activate human striatum. *Neuron*, **38**, 339–346.
+- McCulloch, R. E., and Rossi, P. E. 1992. Bayes factors for nonlinear hypotheses and likelihood distributions. *Biometrika*, **79**, 663–676.
+- McKay, R. 2012. Delusional inference. *Mind & Language*, **27**, 330–355.
+- McKinley, S. C., and Nosofsky, R. M. 1995. Investigations of exemplar and decision bound models in large, ill-defined category structures. *Journal of Experimental Psychology: Human Perception and Performance*, **21**, 128–148.
+- Meehl, P. E. 1990. Appraising and Amending Theories: The Strategy of Lakatosian Defense and Two Principles That Warrant It. *Psychological Inquiry*, **1**, 108–141.
+- Meng, X., and Wong, W. H. 1996. Simulating ratios of normalizing constants via a simple identity: a theoretical exploration. *Statistica Sinica*, **6**, 831–860.
+- Metropolis, A. W., Rosenbluth, A. W., Rosenbluth, M. N., Teller, A. H., and Teller, E. 1953. Equations of state calculations by fast computing machines. *Journal of Chemical Physics*, **21**, 1087–1092.
+- Minda, J. P., and Smith, J. D. 2002. Comparing prototype-based and exemplar-based accounts of category learning and attentional allocation. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, **28**, 275.
+- Minsky, M. L., and Papert, S. A. 1969. *Perceptrons*. Cambridge, MA: MIT Press.
+- Montague, P. R., Dayan, P., Person, C., Sejnowski, T. J., et al. 1995. Bee foraging in uncertain environments using predictive hebbian learning. *Nature*, **377**, 725–728.
+
+- Morey, R. D., Hoekstra, R., Rouder, J. N., Lee, M. D., and Wagenmakers, E. 2016a. The Fallacy of Placing Confidence in Confidence Intervals. *Psychonomic Bulletin & Review*, **23**, 103–123.
+- Morey, R. D., Chambers, C. D., Etchells, P. J., Harris, C. R., Hoekstra, R., Lakens, D., Lewandowsky, S., Morey, C. Coker, Newman, D. P., Schonbrodt, F. D., et al. 2016b. The Peer ¨ Reviewers' Openness Initiative: incentivizing open research practices through peer review. *Royal Society Open Science*, **3**, 150547.
+- Mulder, M. J., Wagenmakers, E., Ratcliff, R., Boekel, W., and Forstmann, B. U. 2012. Bias in the brain: a diffusion model analysis of prior probability and potential payoff. *The Journal of Neuroscience*, **32**, 2335–2343.
+- Munakata, Y., and McClelland, J. L. 2003. Connectionist models of development. *Developmental Science*, **6**, 413–429.
+- Munoz, D. P., and Wurtz, R. H. 1995. Saccade-related activity in monkey superior colliculus. I. Characteristics of burst and buildup cells. *Journal of Neurophysiology*, **73**, 2313–2333.
+- Muter, P. 1980. Very rapid forgetting. *Memory & Cognition*, **8**, 174–179.
+- Myung, I. J., and Pitt, Mark A. 1997. Applying Occam's razor in modeling cognition: A Bayesian approach. *Psychonomic Bulletin and Review*, **4**, 79–95.
+- Myung, J. I., Navarro, D. J., and Pitt, M. A. 2006. Model selection by normalized maximum likelihood. *Journal of Mathematical Psychology*, **50**, 167–179.
+- Myung, J. I., and Navarro, D. J. 2005. Information matrix. *Encyclopedia of Statistics in Behavioral Science*.
+- Myung, J. I., Montenegro, M., and Pitt, M. A. 2007. Analytic expressions for the {BCDMEM} model of recognition memory. *Journal of Mathematical Psychology*, **51**, 198 – 204.
+- Navarro, D. J. 2004. A note on the applied use of MDL approximations. *Neural Computation*, **16**, 1763–1768.
+- Neely, J. H. 1976. Semantic priming and retrieval from lexical memory: Evidence for facilitatory and inhibitory processes. *Memory & Cognition*, **4**, 648–654.
+- Nelder, J. A., and Mead, R. 1965. A simplex method for function minimization. *Computer Journal*, **7**, 308–313.
+- Nersessian, N. J. 1992. How do scientists think? Capturing the dynamics of conceptual change in science. Pages 3–44 of: Giere, R. N. (ed), *Minnesota studies in the philosophy of science*, vol. 15. Minneapolis: University of Minnesota Press.
+- Nersessian, N. J. 1999. Model-based reasoning in conceptual change. Pages 5–22 of: L. Magnani, N. J. Nersessian, and Thagard, P. (eds), *Model-based reasoning in scientific discovery*. New York: Kluwer Academic.
+- Nersessian, N. J. 2010. *Creating scientific concepts*. MIT press.
+- Newell, B. R. 2012. Levels of explanation in category learning. *Australian Journal of Psychology*, **64**, 46–51.
+- Newton, M. A., and Raftery, A. E. 1994. Approximate Bayesian inference with the weighted likelihood bootstrap. *Journal of the Royal Statistical Society. Series B*, **56**, 3–48.
+- Nihm, S. D. 1976. Polynomial law of sensation. *American Psychologist*, **31**, 808–809.
+- Nilsson, H., Rieskamp, J., and Wagenmakers, E. 2011. Hierarchical Bayesian parameter estimation for cumulative prospect theory. *Journal of Mathematical Psychology*, **55**, 84–93.
+- Norman, K. A., and O'Reilly, R. C. 2003. Modeling hippocampal and neocortical contributions to recognition memory: A complementary-learning-systems approach. *Psychological Review*, **110**, 611–646.
+
+- Norman, K. A., Polyn, S. M., Detre, G. J., and Haxby, J. V. 2006. Beyond mind-reading: multi-voxel pattern analysis of fMRI data. *Trends in Cognitive Sciences*, **10**, 424–430.
+- Nosek, B. A., Spies, J. R., and Motyl, M. 2012. Scientific utopia II. Restructuring incentives and practices to promote truth over publishability. *Perspectives on Psychological Science*, **7**, 615–631.
+- Nosofsky, R. M. 1986. Attention, similarity, and the identification-categorization relationship. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, **115**, 39–61.
+- Nosofsky, R. M. 1991. Tests of an exemplar model for relating perceptual classification and recognition memory. *Journal of Experimental Psychology: Human Perception and Performance*, **17**, 3–27.
+- Nourani, Y., and Andresen, B. 1998. A comparison of simulated annealing cooling strategies. *Journal of Physics A: Mathematical and General*, **31**, 8373–8385.
+- Oberauer, K., and Lewandowsky, S. 2008. Forgetting in Immediate Serial Recall: Decay, Temporal Distinctiveness, or Interference? *Psychological Review*, **115**, 544–576.
+- Oberauer, K., and Lewandowsky, S. 2011. Modeling working memory: a computational implementation of the time-based resource-sharing theory. *Psychonomic Bulletin & Review*, **18**, 10–45.
+- Oberauer, K., Lewandowsky, S., Farrell, S., Jarrold, C., and Greaves, M. 2012. Modeling working memory: An interference model of complex span. *Psychonomic Bulletin & Review*, **19**, 779–819.
+- O'Doherty, J. P., Hampton, Alan, and Kim, Hackjin. 2007. Model-based fMRI and its application to reward learning and decision making. *Annals of the New York Academy of sciences*, **1104**, 35–53.
+- Open Science Collaboration, et al. 2012. An open, large-scale, collaborative effort to estimate the reproducibility of psychological science. *Perspectives on Psychological Science*, **7**, 657–660.
+- Open Science Collaboration, et al. 2015. Estimating the reproducibility of psychological science. *Science*, **349**, aac4716.
+- O'Reilly, R. C. 1996. Biologically plausible error-driven learning using local activation differences: The generalized recirculation algorithm. *Neural computation*, **8**, 895–938.
+- Page, M. P. A. 2000. Connectionist modelling in psychology: A localist manifesto. *Behavioral and Brain Sciences*, **23**, 443–467.
+- Page, M. P. A. 2006. What can't functional neuroimaging tell the cognitive psychologist. *Cortex*, **42**, 428–443.
+- Page, M. P. A., and Norris, D. 1998. The primacy model: A new model of immediate serial recall. *Psychological Review*, **105**, 761–781.
+- Palmeri, T. J. 1997. Exemplar similarity and the development of automaticity. *Journal of Experimental Psychology: Learning Memory & Cognition*, **23**, 324–354.
+- Palmeri, T. J. 2014. An exemplar of model-based cognitive neuroscience. *Trends in Cognitive Sciences*, **18**, 67–69.
+- Pan, W., Schmidt, R., Wickens, J. R., and Hyland, B. I. 2005. Dopamine cells respond to predicted events during classical conditioning: Evidence for eligibility traces in the reward-learning network. *The Journal of Neuroscience*, **25**, 6235–6242.
+- Pashler, H. 1994. Graded capacity-sharing in dual-task interference? *Journal of Experimental Psychology: Human Perception and Performance*, **20**, 330.
+- Pashler, H., and Wagenmakers, E. 2012. Editors Introduction to the Special Section on Replicability in Psychological Science: A Crisis of Confidence? *Perspectives on Psychological Science*, **7**, 528–530.
+
+- Pastore, R. E., Crawley, E. J., Berens, M. S., and Skelly, M. A. 2003. "Nonparametric" A' and other modern misconceptions about signal detection theory. *Psychonomic Bulletin & Review*, **10**, 556–569.
+- Pavlik, P. I., and Anderson, J. R. 2005. Practice and forgetting effects on vocabulary memory: An activation-based model of the spacing effect. *Cognitive Science*, **29**, 559–586.
+- Pavlik, P. I., and Anderson, J. R. 2008. Using a Model to Compute the Optimal Schedule of Practice. *Journal of Experimental Psychology: Applied*, **14**, 101–117.
+- Pawitan, Y. 2001. *In all likelihood: Statistical modelling and inference using likelihood*. Oxford: Oxford University Press.
+- Perfors, A. 2012. When do memory limitations lead to regularization? An experimental and computational investigation. *Journal of Memory and Language*, **67**, 486–506.
+- Peruggia, M., Van Zandt, T., and Chen, M. 2002. Was it a car or a cat I saw? An analysis of response times for word recognition. *Case Studies in Bayesian Statistics*, **6**, 319–334.
+- Pessiglione, M., Seymour, B., Flandin, G., Dolan, R. J., and Frith, C. D. 2006. Dopaminedependent prediction errors underpin reward-seeking behaviour in humans. *Nature*, **442**, 1042–1045.
+- Pfister, R., Schwarz, K. A., Janczyk, M., Dale, R., and Freeman, J. B. 2013. Good things peak in pairs: a note on the bimodality coefficient. *Frontiers in Psychology*, **4**, 700.
+- Pinker, S., and Ullman, M. T. 2002. The past and future of the past tense. *Trends in Cognitive Sciences*, **6**, 456–463.
+- Pitt, M. A., and Myung, I. J. 2002. When a good fit can be bad. *Trends in Cognitive Science*, **6**, 421–425.
+- Pitt, M.A., Myung, I.-J., and Zhang, S. 2002. Toward a method of selecting among computational models of cognition. *Psychological Review*, **109**, 472–491.
+- Platt, J. R. 1964. Strong inference. *Science*, **146**, 347–353.
+- Plummer, M. 2003. JAGS: A program for analysis of Bayesian graphical models using Gibbs sampling. In: *Proceedings of the 3rd international workshop on distributed statistical computing*, vol. 124. Technische Universitat Wien, Vienna, Austria. ¨
+- Plummer, M. 2008. Penalized loss functions for Bayesian model comparison. *Biostatistics*, **9**, 523–539.
+- Popper, K. R. 1963. *Conjectures and Refutations*. London: Routledge.
+- Prinz, W. 1997. Perception and action planning. *European Journal of Cognitive Psychology*, **9**, 129–154.
+- Purcell, B. A., Heitz, R. P., Cohen, J. Y., Schall, J. D., Logan, G. D., and Palmeri, T. J. 2010. Neurally constrained modeling of perceptual decision making. *Psychological Review*, **117**, 1113–1143.
+- Radvansky, G. 2006. *Human memory*. Boston, MA: Pearson.
+- Raftery, A. E. 1995. Bayesian model selection in social research. *Sociological Methodology*, **25**, 111–164.
+- Raftery, A. E. 1999. Bayes factors and BIC: Comment on "A critique of the Bayesian Information Criterion for model selection". *Sociological Methods & Research*, **27**, 411–427.
+- Raftery, A. E., Newton, M. A., Satagopan, J. M., and Krivitsky, P. N. 2007. Estimating the integrated likelihood via posterior simulation using the harmonic mean identity. Pages 1–45 of: Bernardo, J. M., Bayarri, M. J., Berger, J. O., Dawid, A. P., Heckerman, D., Smith, A. F. M., and West, M. (eds), *Bayesian Statistics*, vol. 8. Oxford: Oxford University Press.
+- Ratcliff, R. 1978. A theory of memory retrieval. *Psychological Review*, **85**, 59–108.
+- Ratcliff, R. 1979. Group reaction time distributions and an analysis of distribution statistics. *Psychological Bulletin*, **86**, 446–461.
+
+- Ratcliff, R. 1980. A note on modeling accumulation of information when the rate of accumulation changes over time. *Journal of Mathematical Psychology*, **21**, 178–184.
+- Ratcliff, R. 1990. Connectionist models of recognition memory: Constraints imposed by learning and forgetting functions. *Psychological Review*, **97**, 285–308.
+- Ratcliff, R. 1998. The role of mathematical psychology in experimental psychology. *Australian Journal of Psychology*, **50**, 129–130.
+- Ratcliff, R. 2002. A diffusion model account of response time and accuracy in a brightness discrimination task: Fitting real data and failing to fit fake but plausible data. *Psychonomic Bulletin & Review*, **9**, 278–291.
+- Ratcliff, R., and McKoon, G. 1981. Does activation really spread? *Psychological Review*, **88**, 454–462.
+- Ratcliff, R., and McKoon, G. 2008. The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks. *Neural Computation*, **20**, 873–922.
+- Ratcliff, R., and Rouder, J. N. 1998. Modeling repsonse times for two-choice decisions. *Psychological Science*, **9**, 347–356.
+- Ratcliff, R., and Smith, P. L. 2004. A comparison of sequential sampling models for two-choice reaction time. *Psychological Review*, **111**, 333–367.
+- Ratcliff, R., and Tuerlinckx, F. 2002. Estimating parameters of the diffusion model: approaches to dealing with contaminant reaction times and parameter variability. *Psychonomic Bulletin & Review*, **9**, 438–81.
+- Ratcliff, R., Spieler, D., and McKoon, G. 2000. Explicitly modeling the effects of aging on response time. *Psychonomic Bulletin & Review*, **7**, 1–25.
+- Ratcliff, R., Cherian, A., and Segraves, M. 2003. A comparison of macaque behavior and superior colliculus neuronal activity to predictions from models of two-choice decisions. *Journal of Neurophysiology*, **90**, 1392–407.
+- Ratcliff, R., Gomez, P., and McKoon, G. 2004. A diffusion model account of the lexical decision task. *Psychological Review*, **111**(1), 159.
+- Ratcliff, R., Philiastides, M. G., and Sajda, P. 2009. Quality of evidence for perceptual decision making is indexed by trial-to-trial variability of the EEG. *Proceedings of the National Academy of Sciences*, **106**(16), 6539–6544.
+- Ratcliff, R., Thapar, A., and McKoon, G. 2010. Individual differences, aging, and IQ in two-choice tasks. *Cognitive Psychology*, **60**, 127–157.
+- Ratcliff, R., Van Zandt, T., and McKoon, G. 1999. Connectionist and diffusion models of reaction time. *Psychological Review*, **106**, 261–300.
+- Ratcliff, R., Smith, P. L., Brown, S. D., and McKoon, G. 2016. Diffusion Decision Model: Current Issues and History. *Trends in Cognitive Sciences*, **20**, 260–281.
+- Reddi, B. A. J., Asrress, K. N., and Carpenter, R. H. S. 2003. Accuracy, information, and response time in a saccadic decision task. *Journal of Neurophysiology*, **90**, 3538–3546.
+- Redington, M., Chater, N., and Finch, S. 1998. Distributional information: A powerful cue for acquiring syntactic categories. *Cognitive Science*, **22**, 425–469.
+- Reed, S. K. 1972. Pattern recognition and categorization. *Cognitive Psychology*, **3**, 382–407.
+- Reinhart, C. M., and Rogoff, K. S. 2010. Growth in a time of debt (digest summary). *American Economic Review*, **100**, 573–578.
+- Reynolds, A., and Miller, J. 2009. Display size effects in visual search: analyses of reaction time distributions as mixtures. *The Quarterly Journal of Experimental Psychology*, **62**, 988–1009.
+
+- Riefer, D. M., Knapp, B. R., Batchelder, W. H., Bamber, D., and Manifold, V. 2002. Cognitive psychometrics: Assessing storage and retrieval deficits in special populations with multinomial processing tree models. *Psychological Assessment*, **14**, 184.
+- Riefer, D.M., and Batchelder, W.H. 1988. Multinomial modeling and the measurement of cognitive processes. *Psychological Review*, **95**, 318–339.
+- Rieskamp, J. 2008. The probabilistic nature of preferential choice. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, **34**, 1446.
+- Rissanen, J. 1999. Hypothesis selection and testing by the MDL principle. *Computer Journal*, **42**, 260–269.
+- Rissanen, J. 2001. Strong optimality of the normalized ML models as universal codes and information in data. *Information Theory, IEEE Transactions on*, **47**, 1712–1717.
+- Roberts, G. O., Gelman, A., Gilks, W. R., et al. 1997. Weak convergence and optimal scaling of random walk Metropolis algorithms. *The Annals of Applied Probability*, **7**, 110–120.
+- Roberts, S., and Pashler, H. 2000. How persuasive is a good fit? A comment on theory testing. *Psychological Review*, **107**, 358–367.
+- Rochester, N., Holland, J. H., Haibt, L. H., and Duda, W. L. 1956. Tests on a cell assembly theory of the action of the brain, using a large digital computer. *IRE Transactions On Information Theory*, **IT-2**, 80–93.
+- Rohrer, D. 2002. The breadth of memory search. *Memory*, **10**, 291–301.
+- Roitman, J. D., and Shadlen, M. N. 2002. Response of neurons in the lateral intraparietal area during a combined visual discrimination reaction time task. *Journal of Neuroscience*, **22**, 9475–9489.
+- Root-Bernstein, R. 1981. Views on evolution, theory, and science. *Science*, **212**, 1446–1449.
+- Rotello, C. M., and Macmillan, N. A. 2006. Remember-know models as decision strategies in two experimental paradigms. *Journal of Memory and Language*, **55**, 479–494.
+- Rouder, J. N. 1996. Premature Sampling in Random Walks. *Journal of Mathematical Psychology*, **40**, 287 – 296.
+- Rouder, J. N. 2014. Optional stopping: No problem for Bayesians. *Psychonomic Bulletin & Review*, **21**, 301–308.
+- Rouder, J. N., and Lu, J. 2005. An introduction to Bayesian hierarchical models with an application in the theory of signal detection. *Psychonomic Bulletin & Review*, **12**, 573–604.
+- Rouder, J. N., and Ratcliff, R. 2004. Comparing categorization models. *Journal of Experimental Psychology: General*, **133**, 63–82.
+- Rouder, J. N., and Speckman, P. L. 2004. An evaluation of the Vincentizing method of forming group-level response time distributions. *Psychonomic Bulletin & Review*, **11**, 419–27.
+- Rouder, J. N., Lu, J., Speckman, P., Sun, D., and Jiang, Y. 2005. A hierarchical model for estimating response time distributions. *Psychonomic Bulletin & Review*, **12**, 195–223.
+- Rouder, J. N., Lu, J., Sun, D., Speckman, P. L., Morey, R. D., and Naveh-Benjamin, M. 2007. Signal detection models with random participant and item effects. *Psychometrika*, **72**, 621–642.
+- Rouder, J. N., Morey, R. D., Speckman, P. L., and Province, J. M. 2012. Default Bayes factors for ANOVA designs. *Journal of Mathematical Psychology*, **56**, 356–374.
+- Rouder, J. N., Speckman, P. I., Sun, D., and Morey, R. D. 2009. Bayesian *t* tests for accepting and rejecting the null hypothesis. *Psychonomic Bulletin & Review*, **16**, 225–237.
+- Rowan, T. H. 1990. *Functional stability analysis of numerical algorithms*. Ph.D. thesis, University of Texas at Austin.
+
+- Rubinstein, R. Y. 1981. *Simulation and the Monte Carlo method*. Michigan: John Wiley & Sons. Rumelhart, D. E., and McClelland, J. L. 1986. *Parallel Distributed Processing*. Cambridge: MIT Press.
+- Rumelhart, D. E., Hinton, G. E., and Williams, R. J. 1986. Learning internal representations by error propagation. Pages 318–362 of: Rumelhart, D. E., McClelland, J. L., and the PDP Research Group (eds), *Parallel distributed processing*, vol. 1. Cambridge: MIT Press.
+- Rutledge, R. B., Lazzaro, S. C., Lau, B., Myers, C. E., Gluck, M. A., and Glimcher, P. W. 2009. Dopaminergic drugs modulate learning rates and perseveration in Parkinson's patients in a dynamic foraging task. *The Journal of Neuroscience*, **29**, 15104–15114.
+- Schacter, D. L., Verfaellie, M., and Anes, M. D. 1997. Illusory memories in amnesic patients: Conceptual and perceptual false recognition. *Neuropsychology*, **11**, 331–342.
+- Schall, J. D. 2004. On building a bridge between brain and behavior. *Annual Review of Psychology*, **55**, 23–50.
+- Scharm, M., Wolkenhauer, O., and Waltemath, D. 2015. An algorithm to detect and communicate the differences in computational models describing biological systems. *Bioinformatics*, **32**, 563–570.
+- Scheibehenne, B., and Pachur, T. 2015. Using Bayesian hierarchical parameter estimation to assess the generalizability of cognitive models of choice. *Psychonomic Bulletin & Review*, **22**, 391–407.
+- Scheibehenne, B., Rieskamp, J., and Wagenmakers, E. 2013. Testing adaptive toolbox models: A Bayesian hierarchical approach. *Psychological Review*, **120**, 39.
+- Schmiedek, F., Oberauer, K., Wilhelm, O., Suß, H.-M., and Wittmann, W. W. 2007. Individual ¨ differences in components of reaction time distributions and their relations to working memory and intelligence. *Journal of Experimental Psychology: General*, **136**, 414–429.
+- Schonberg, T., Daw, N. D., Joel, D., and O'Doherty, J. P. 2007. Reinforcement learning signals ¨ in the human striatum distinguish learners from nonlearners during reward-based decision making. *The Journal of Neuroscience*, **27**, 12860–12867.
+- Schrodinger, E. 1915. Zur theorie der fall-und steigversuche an teilchen mit brownscher ¨ bewegung. *Physikalische Zeitschrift*, **16**, 289–295.
+- Schultz, W., Apicella, P., and Ljungberg, T. 1993. Responses of monkey dopamine neurons to reward and conditioned stimuli during successive steps of learning a delayed response task. *The Journal of Neuroscience*, **13**, 900–913.
+- Schultz, W., Dayan, P., and Montague, P. R. 1997. A neural substrate of prediction and reward. *Science*, **275**, 1593–1599.
+- Schunn, C. D., and Wallach, D. 2005. Evaluating Goodness-of-Fit in Comparison of Models to Data. Pages 115–154 of: Tack, W. (ed), *Psychologie der Kognition: Reden and Vortr ¨age anl ¨aßlich der Emeritierung von Werner Tack*. Saarbrucken, Germany: University of Saarland ¨ Press.
+- Schwarz, G. 1978. Estimating the dimension of a model. *The Annals of Statistics*, **6**, 461–464.
+- Seidenberg, M. S., and McClelland, J. L. 1989. A distributed, developmental model of word recognition and naming. *Psychological Review*, **96**, 523–568.
+- Severini, T. A. 2000. *Likelihood methods in statistics*. Oxford, UK: Oxford University Press.
+- Shadlen, M. N., and Newsome, W. T. 1996. Motion perception: Seeing and deciding. *Proceedings of the National Academy of Sciences*, **93**, 628–633.
+- Shadlen, M. N., and Newsome, W. T. 2001. Neural basis of a perceptual decision in the parietal cortex (Area LIP) of the rhesus monkey. *Journal of Neurophysiology*, **86**, 1916–1936.
+- Shepard, R. N. 1987. Toward a Universal Law of Generalization for Psychological Science. *Science*, **237**, 1317–1323.
+
+- Shepard, R. N., and Metzler, J. 1971. Mental rotation of three-dimensional objects. *Science*, **171**, 701–703.
+- Shiffrin, R. M., and Steyvers, M. 1997. A model for recognition memory: REM—retrieving effectively from memory. *Psychonomic Bulletin & Review*, **4**, 145–166.
+- Shiffrin, R. M., Lee, M. D., Kim, W., and Wagenmakers, E. J. 2008. A survey of model evaluation approaches with a tutorial on hierarchical Bayesian methods. *Cognitive Science*, **32**, 1248–1284.
+- Singmann, H., Brown, S., Gretton, M., and Heathcote, A. 2016. rtdists: *Response Time Distributions. R package version 0.5-2.*
+- Sinharay, S., and Stern, H. S. 2002. On the sensitivity of Bayes factors to the prior distributions. *The American Statistician*, **56**, 196–201.
+- Smith, J. B., and Batchelder, W. H. 2008. Assessing individual differences in categorical data. *Psychonomic Bulletin & Review*, **15**, 713–731.
+- Smith, J. B., and Batchelder, W. H. 2010. Beta-MPT: Multinomial processing tree models for addressing individual differences. *Journal of Mathematical Psychology*, **54**, 167–183.
+- Smith, P. L. 1998. Attention and luminance detection: A quantitative analysis. *Journal of Experimental Psychology: Human Perception and Performance*, **24**, 105–133.
+- Smith, P. L., and Ratcliff, R. 2004. Psychology and neurobiology of simple decisions. *Trends in Neurosciences*, **27**, 161–168.
+- Smith, P. L., and Vickers, D. 1988. The accumulator model of two-choice discrimination. *Journal of Mathematical Psychology*, **32**, 135–168.
+- Spangler, S., Wilkins, A. D., Bachman, B. J., Nagarajan, M., Dayaram, T., Haas, P., Regenbogen, S., Pickering, C. R., Comer, A., Myers, J. N., et al. 2014. Automated hypothesis generation based on mining scientific literature. Pages 1877–1886 of: *Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining*. ACM.
+- Spanos, A. 1999. *Probability theory and statistical inference*. Cambridge: Cambridge University Press.
+- Spiegelhalter, D., Thomas, A., Best, N., and Lunn, D. 2003. *WinBUGS user manual. (Version 1.4, January 2003)*. Tech. rept. University of Cambridge.
+- Spiegelhalter, D. J., Best, N. G., Carlin, B. P., and Van Der Linde, A. 2002. Bayesian measures of model complexity and fit. *Journal of the Royal Statistical Society: Series B (Statistical Methodology)*, **64**, 583–639.
+- Spiegelhalter, D. J., Best, N. G., Carlin, B. P., and Linde, A. 2014. The deviance information criterion: 12 years on. *Journal of the Royal Statistical Society: Series B (Statistical Methodology)*, **76**, 485–493.
+- Sprenger, A. M., Dougherty, M. R., Atkins, S. M., Franco-Watkins, A. M., Thomas, R. P., Lange, N., and Abbs, B. 2011. Implications of cognitive load for hypothesis generation and probability judgment. *Frontiers in psychology*, **2**, 129.
+- Spruijt-Metz, D., Hekler, E., Saranummi, N., Intille, S., Korhonen, I., Nilsen, W., Rivera, D. E., Spring, B., Michie, S., Asch, D. A., et al. 2015. Building new computational models to support health behavior change and maintenance: new opportunities in behavioral research. *Translational behavioral medicine*, **5**, 335–346.
+- Stanislaw, H., and Todorov, N. 1999. Calculation of signal detection theory measures. *Behavior Research Methods, Instruments, & Computers*, **31**, 137–149.
+- Steele, R. J., and Raftery, A. 2010. Performance of Bayesian model selection criteria for Gaussian mixture models. *Frontiers of Statistical Decision Making and Bayesian Analysis*, **2**, 113–130.
+
+- Steingroever, H., Wetzels, R., and Wagenmakers, E.-J. 2016. Bayes factors for reinforcementlearning models of the Iowa Gambling Task. *Decision*, **3**, 115–131.
+- Sternberg, S. 1975. Memory scanning: New findings and current controversies. *Quarterly Journal of Experimental Psychology*, **27**, 1–32.
+- Stone, M. 1960. Models for choice-reaction time. *Psychometrika*, **25**, 251–260.
+- Stone, M. 1974. Cross-validatory choice and assessment of statistical predictions. *Journal of the Royal Statistical Society*, **36B**, 111–147.
+- Stone, M. 1977. An asymptotic equivalence of choice of model by cross-validation and Akaike's criterion. *Journal of the Royal Statistical Society*, **39B**, 44–47.
+- Stott, H. P. 2006. Cumulative prospect theory's functional menagerie. *Journal of Risk and uncertainty*, **32**, 101–130.
+- Suchow, J. W., Brady, T. F., Fougnie, D., and Alvarez, G. A. 2013. Modeling visual working memory with the MemToolbox. *Journal of Vision*, **13**, 9.
+- Sugiura, N. 1978. Further analysis of the data by Akaike's information criterion and the finite corrections. *Communications in Statistics: Theory and Methods*, **7**, 13–26.
+- Summerfield, C., and Koechlin, E. 2010. Economic value biases uncertain perceptual choices in the parietal and prefrontal cortices. *Frontiers of Human Neuroscience*, **4**, 208.
+- Sunnaker, M., Busetto, A. G., Numminen, E., Corander, J., Foll, M., and Dessimoz, C. 2013. ˚ Approximate Bayesian Computation. *PLoS Computational Biology*, **9**, e1002803.
+- Sutton, R. S., and Barto, A. G. 1998. *Reinforcement learning: An introduction*. Cambridge: Cambridge Univ Press.
+- Swets, J. A., Tanner, W. P., and Birdsall, T. G. 1961. Decision processes in perception. *Psychological Review*, **68**, 301–340.
+- Swets, J. A. 1961. Is there a sensory threshold. *Science*, **134**, 168–177.
+- Tan, L., and Ward, G. 2008. Rehearsal in immediate serial recall. *Psychonomic Bulletin & Review*, **15**, 535–542.
+- Tanaka, S. C., Shishida, K., Schweighofer, N., Okamoto, Y., Yamawaki, S., and Doya, K. 2009. Serotonin affects association of aversive outcomes to past actions. *The Journal of Neuroscience*, **29**, 15669–15674.
+- Teller, D. 1984. Linking propositions. *Vision Research*, **24**, 1233–1246.
+- Tenan, S., OHara, R. B., Hendriks, I., and Tavecchia, G. 2014. Bayesian model selection: the steepest mountain to climb. *Ecological Modelling*, **283**, 62–69.
+- Tenenbaum, J. B., Kemp, C., Griffiths, T. L., and Goodman, N. D. 2011. How to Grow a Mind: Statistics, Structure, and Abstraction. *Science*, **331**, 1279–1285.
+- Terry, A., Marley, A. A. J., Barnwal, A., Wagenmakers, E., Heathcote, A., and Brown, S. D. 2015. Generalising the drift rate distribution for linear ballistic accumulators. *Journal of Mathematical Psychology*, **68**, 49–58.
+- Thaler, R. 1981. Some Empirical-evidence On Dynamic Inconsistency. *Economics Letters*, **8**, 201–207.
+- Thomas, M. S. C., and McClelland, J. L. 2008. Connectionist models of cognition. Pages 23–58 of: Sun, R. (ed), *The Cambridge handbook of computational psychology*. Cambridge: Cambridge University Press.
+- Tibshirani, R., Walther, G., and Hastie, T. 2001. Estimating the number of clusters in a data set via the gap statistic. *Journal of the Royal Statistical Society: Series B (Statistical Methodology)*, **63**, 411–423.
+- Tierney, L., and Kadane, J. B. 1986. Accurate approximations for posterior moments and marginal densities. *Journal of the American Statistical Association*, **81**, 82–86.
+
+- Trafimow, D. 2005. The ubiquitous Laplacian assumption: Reply to Lee and Wagenmakers (2005). *Psychological Review*, **112**, 669–674.
+- Trickett, S. B., and Trafton, J. G. 2007. "What if...": The use of conceptual simulations in scientific reasoning. *Cognitive Science*, **31**, 843–875.
+- Trostel, P. A., and Taylor, G. A. 2001. A theory of time preference. *Economic inquiry*, **39**, 379–395.
+- Trout, J. D. 2007. The Psychology of Scientific Explanation. *Philosophy Compass*, **2/3**, 564–591.
+- Tuerlinckx, F. 2004. The efficient computation of the cumulative distribution and probability density functions in the diffusion model. *Behavior Research Methods, Instruments, & Computers*, **36**, 702–16.
+- Turner, B. M., and Sederberg, P. B. 2014. A generalized, likelihood-free method for posterior estimation. *Psychonomic Bulletin & Review*, **21**, 227–250.
+- Turner, B. M., Van Maanen, L., and Forstmann, B. U. 2015. Combining Cognitive Abstractions with Neurophysiology: The Neural Drift Diffusion Model. *Psychological Review*, **122**, 312–336.
+- Turner, B. M., Rodriguez, C. A., Norcia, T. M., McClure, S. M., and Steyvers, M. 2016. Why more is better: Simultaneous modeling of EEG, fMRI, and behavioral data. *Neuroimage*, **128**, 96–115.
+- Turner, B. M., and Sederberg, P. B. 2012. Approximate Bayesian computation with differential evolution. *Journal of Mathematical Psychology*, **56**, 375–385.
+- Turner, B. M., and Van Zandt, T. 2012. A tutorial on approximate Bayesian computation. *Journal of Mathematical Psychology*, **56**, 69–85.
+- Turner, B. M., and Van Zandt, T. 2014. Hierarchical Approximate Bayesian Computation. *Psychometrika*, **79**, 185–209.
+- Turner, B. M., Forstmann, B. U., Wagenmakers, E., Brown, S. D., Sederberg, Per B, and Steyvers, Mark. 2013. A Bayesian framework for simultaneously modeling neural and behavioral data. *NeuroImage*, **72**, 193–206.
+- Turner, B. M., Forstmann, B. U., Love, B. C., Palmeri, T. J., and Van Maanen, Leendert. 2017. Approaches to analysis in model-based cognitive neuroscience. *Journal of Mathematical Psychology*, **76**, 65–79.
+- Tuyl, F., Gerlach, R., and Mengersen, K. 2009. Posterior predictive arguments in favor of the Bayes-Laplace prior as the consensus prior for binomial and multinomial parameters. *Bayesian Analysis*, **4**, 151–158.
+- Tversky, A., and Kahneman, D. 1992. Advances in prospect theory: Cumulative representation of uncertainty. *Journal of Risk and Uncertainty*, **5**, 297–323.
+- Unsworth, N., Brewer, G., and Spillers, G. 2011. Inter- and intra-individual variation in immediate free recall: An examination of serial position functions and recall initiation strategies. *Memory*, **19**, 67–82.
+- Usher, M., and McClelland, J. L. 2001. The time course of perceptual choice: The leaky, competing accumulator model. *Psychological Review*, **108**, 550–592.
+- Uttal, W. R. 2001. *The new phrenology: The limits of localizing cognitive processes in the brain.* The MIT press.
+- van den Berg, R., Awh, E., and Ma, W. 2014. Factorial comparison of working memory models. *Psychological Review*, **121**, 124–149.
+- Van Den Heuvel, M. P., and Pol, H. E. H. 2010. Exploring the brain network: a review on restingstate fMRI functional connectivity. *European Neuropsychopharmacology*, **20**, 519–534.
+
+- van Maanen, L., Brown, S. D., Eichele, T., Wagenmakers, E., Ho, T., Serences, J., and Forstmann, B. U. 2011. Neural correlates of trial-to-trial fluctuations in response caution. *The Journal of Neuroscience*, **31**, 17488–17495.
+- van Ravenzwaaij, D., Provost, A., and Brown, S. D. 2017. A confirmatory approach for integrating neural and behavioral data into a single model. *Journal of Mathematical Psychology*, **76**, 131–141.
+- van Ravenzwaaij, D., and Oberauer, K. 2009. How to use the diffusion model: Parameter recovery of three methods: EZ, fast-dm, and DMAT. *Journal of Mathematical Psychology*, **53**, 463–473.
+- van Ravenzwaaij, D., Donkin, C., and Vandekerckhove, J. 2017. The EZ diffusion model provides a powerful test of simple empirical effects. *Psychonomic Bulletin & Review*, **24**, 547–556.
+- van Ravenzwaaij, D., Cassey, P., and Brown, S. D. in press. A simple introduction to Markov Chain Monte–Carlo sampling. *Psychonomic Bulletin & Review*.
+- van Santen, J. P. H. and Bamber, D. 1981. Finite and infinite state confusion models. *Journal of Mathematical Psychology*, **24**, 101–111.
+- Van Zandt, T. 2000. How to fit a response time distribution. *Psychonomic Bulletin & Review*, **7**, 424–465.
+- Vandekerckhove, J., and Tuerlinckx, F. 2007. Fitting the Ratcliff diffusion model to experimental data. *Psychonomic Bulletin & Review*, **14**, 1011–1026.
+- Vandekerckhove, J., and Tuerlinckx, F. 2008. Diffusion model analysis with MATLAB: A DMAT primer. *Behavior Research Methods*, **40**, 61–72.
+- Vandekerckhove, J., Tuerlinckx, F., and Lee, M. 2008. A Bayesian approach to diffusion process models of decision-making. Pages 1429–1434 of: *Proceedings of the 30th annual conference of the cognitive science society*. Cognitive Science Society.
+- Vandekerckhove, J., Tuerlinckx, F., and Lee, M. D. 2011. Hierarchical diffusion models for two-choice response times. *Psychological Methods*, **16**, 44–62.
+- Vandekerckhove, J., Matzke, D., and Wagenmakers, E. 2015. Model comparison and the principle of parsimony. Pages 300–317 of: Busemeyer, J. R., Townsend, J. T., Wang, Z. J., and Eidels, A. (eds), *Oxford handbook of computational and mathematical psychology*. Oxford: Oxford University Press.
+- Vanderbilt, D., and Louie, S. G. 1984. A Monte Carlo simulated annealing approach to optimization over continuous variables. *Journal of Computational Physics*, **56**, 259–271.
+- Vanpaemel, W., Vermorgen, M., Deriemaecker, L., and Storms, G. 2015. Are we wasting a good crisis? The availability of psychological research data after the storm. *Collabra*, **1**(1).
+- Venn, J. 1888. *The logic of chance (3rd Edition)*. London: MacMillan.
+- Verbeemen, T., Vanpaemel, W., Pattyn, S., Storms, G., and Verguts, T. 2007. Beyond exemplars and prototypes as memory representations of natural concepts: A clustering approach. *Journal of Memory and Language*, **56**, 537–554.
+- Verzani, J. 2004. *Using R for introductory statistics*. Boca Raton: CRC Press.
+- Vincent, B. T. 2016. Hierarchical Bayesian estimation and hypothesis testing for delay discounting tasks. *Behavior Research Methods*, **48**, 1608–1620.
+- Von Neumann, J., and Morgenstern, O. 1944. *Theory of games and economic behavior*. Princeton university press.
+- Voss, A., and Voss, J. 2008. A fast numerical algorithm for the estimation of diffusion model parameters. *Journal of Mathematical Psychology*, **52**, 1–9.
+- Voss, A., Rothermund, K., and Voss, J. 2004. Interpreting the parameters of the diffusion model: An empirical validation. *Memory & Cognition*, **32**, 1206–1220.
+
+- Vul, E., Harris, C., Winkielman, P., and Pashler, H. 2009. Puzzlingly High Correlations in fMRI Studies of Emotion, Personality, and Social Cognition. *Perspectives on Psychological Science*, **4**, 274–290.
+- Wabersich, D., and Vandekerckhove, J. 2014. Extending JAGS: a tutorial on adding custom distributions to JAGS (with a diffusion model example). *Behavior Research Methods*, **46**, 15–28.
+- Wagenaar, W. A., and Boer, J. P. A. 1987. Misleading postevent information: Testing parameterized models of integration in memory. *Acta Psychologica*, **66**, 291–306.
+- Wagenmakers, E. J. 2007. A practical solution to the pervasive problems of *p* values. *Psychonomic Bulletin & Review*, **14**, 779–804.
+- Wagenmakers, E. J., van der Maas, H. L. J., and Grasman, R. P. P. P. 2007. An EZ-diffusion model for response time and accuracy. *Psychonomic Bulletin & Review*, **14**, 3–22.
+- Wagenmakers, E. J., and Farrell, Simon. 2004. AIC model selection using Akaike weights. *Psychonomic Bulletin & Review*, **11**, 192–196.
+- Wagenmakers, E. J., Farrell, S., and Ratcliff, R. 2004b. Estimation and interpretation of 1/*f <sup>α</sup>* noise in human cognition. *Psychonomic Bulletin & Review*, **11**, 579–615.
+- Wagenmakers, E. J., Ratcliff, R., Gomez, P., and Iverson, G. J. 2004a. Assessing model mimcry using the parametric bootstrap. *Journal of Mathematical Psychology*, **48**, 28–50.
+- Wagenmakers, E. J., Lodewyckx, T., Kuriyal, H., and Grasman, R. 2010. Bayesian hypothesis testing for psychologists: A tutorial on the Savage–Dickey method. *Cognitive Psychology*, **60**, 158–189.
+- Wald, A. 1947. *Sequential Analysis*. New York: Wiley.
+- Walsh, M. M., and Anderson, J. R. 2014. Navigating complex decision spaces: Problems and paradigms in sequential choice. *Psychological Bulletin*, **140**, 466–486.
+- Wasserman, L. 2000. Bayesian model selection and model averaging. *Journal of Mathematical Psychology*, **44**, 92–107.
+- Watanabe, S. 2010. Asymptotic equivalence of Bayes cross validation and widely applicable information criterion in singular learning theory. *The Journal of Machine Learning Research*, **11**, 3571–3594.
+- Weakliem, D. L. 1999. A critique of the Bayesian Information Criterion for model selection. *Sociological Methods & Research*, **27**, 359–397.
+- Weissman, D. H., Roberts, K.C., Visscher, K. M., and Woldorff, M. G. 2006. The neural bases of momentary lapses in attention. *Nature Neuroscience*, **9**, 971–978.
+- Werbos, P. J. 1990. Backpropagation through time: what it does and how to do it. *Proceedings of the IEEE*, **78**, 1550–1560.
+- Wicherts, J. M., Borsboom, D., Kats, J., and Molenaar, D. 2006. The poor availability of psychological research data for reanalysis. *American Psychologist*, **61**, 726–728.
+- Wicherts, J. M., Bakker, M., and Molenaar, D. 2011. Willingness to share research data is related to the strength of the evidence and the quality of reporting of statistical results. *PLoS One*, **6**, e26828.
+- Wickens, T. D. 1982. *Models for behavior: Stochastic processes in psychology*. San Francisco: W. H. Freeman.
+- Widrow, G., and Hoff, M. E. 1960. Adaptive switching circuits. *Institute of Radio Engineers, Western Electronic Show and Convention, Convention Record, Part 4*, 96–104.
+- Wilken, P., and Ma, W. J. 2004. A detection theory account of change detection. *Journal of Vision*, **4**, 1120–1135.
+- Wilkinson, R. D. 2013. Approximate Bayesian computation (ABC) gives exact results under the assumption of model error. *Statistical Applications in Genetics and Molecular Biology*, **12**, 129–141.
+
+- Wilson, G., Aruliah, D. A., Brown, C. T., Hong, N. P. C., Davis, M., Guy, R. T., Haddock, S. H. D., Huff, K. D., Mitchell, Ian M, Plumbley, Mark D, et al. 2014. Best practices for scientific computing. *PLoS Biology*, **12**(1), e1001745.
+- Wixted, J. T. 2004a. On common ground: Jost's (1897) law of forgetting and Ribot's (1881) law of retrograde amnesia. *Psychological Review*, **111**, 864–879.
+- Wixted, J. T. 2004b. The psychology and neuroscience of forgetting. *Annual Review of Psychology*, **55**, 235–269.
+- Wixted, J. T. 2007. Dual-process theory and signal-detection theory of recognition memory. *Psychological Review*, **114**, 152–176.
+- Wixted, J. T., and Rohrer, D. 1994. Analyzing the dynamics of free recall: An integrative review of the empirical literature. *Psychonomic Bulletin & Review*, **1**, 89–106.
+- Wixted, J. T., and Stretch, V. 2004. In defense of the signal detection interpretation of remember/ know judgements. *Psychonomic Bulletin & Review*, **11**, 616–641.
+- Wolpert, R. L., and Schmidler, S. C. 2012. *α*-Stable limit laws for harmonic mean estimators of marginal likelihoods. *Statistica Sinica*, **22**, 1233–1251.
+- Wong, K. F., and Wang, X. J. 2006. A recurrent network mechanism of time integration in perceptual decisions. *The Journal of neuroscience*, **26**, 1314–1328.
+- Wrinch, D., and Jeffreys, H. 1921. On certain fundamental principles of scientific inquiry. *The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science*, **42**, 369–390.
+- Wu, H., Myung, J. I., and Batchelder, W. H. 2010. On the minimum description length complexity of multinomial processing tree models. *Journal of Mathematical Psychology*, **54**, 291–303.
+- Yang, L. X., and Lewandowsky, S. 2004. Knowledge partitioning in categorization: Constraints on exemplar models. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, **30**, 1045–1064.
+- Yechiam, E., Busemeyer, J. R., Stout, J. C., and Bechara, A. 2005. Using cognitive models to map relations between neuropsychological disorders and human decision-making deficits. *Psychological Science*, **16**, 973–978.
+- Zaki, S. R., Nosofsky, R. M., Stanton, R. D., and Cohen, A. L. 2003. Prototype and exemplar accounts of category learning and attentional allocation: a reassessment. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, **29**, 1160–1173.
+- Zauberman, G., Kim, B. K., Makoc, S. A., and Bettman, J. R. 2009. Discounting Time and Time Discounting: Subjective Time Perception and Intertemporal Preferences. *Journal of Marketing Research*, **46**, 543–556.
+- Zeisberger, S., Vrecko, D., and Langer, T. 2012. Measuring the time stability of prospect theory preferences. *Theory and Decision*, **72**, 359–386.
+- Zhang, W., and Luck, S. J. 2008. Discrete fixed-resolution representations in visual working memory. *Nature*, **453**, 233–235.
+- Zhu, M., and Lu, A. Y. 2004. The counter-intuitive non-informative prior for the Bernoulli family. *Journal of Statistics Education*, **12**, 1–10.
+- Zilli, E. A., and Hasselmo, M. E. 2008. Modeling the role of working memory and episodic memory in behavioral tasks. *Hippocampus*, **18**, 193–209.
+- Zucchini, W. 2000. An introduction to model selection. *Journal of Mathematical Psychology*, **44**, 41–61.
